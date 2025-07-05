@@ -1,0 +1,7972 @@
+[
+  {
+    "Code": null,
+    "Product and Net Content": "BEAUTY - SKIN CARE",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "MP0002",
+    "Product and Net Content": "Forest Nectar Coffee 2 In 1 Face Scrub And Mask (100 g)",
+    "MRP(Rs.)": 1350.0,
+    "DP(Rs.)": 1013.0,
+    "PV": 18.76,
+    "BV": 504.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MPD006",
+    "Product and Net Content": "Forest Nectar Coffee Body Butter (200 g)",
+    "MRP(Rs.)": 2000.0,
+    "DP(Rs.)": 1500.0,
+    "PV": 27.78,
+    "BV": 750.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FN4",
+    "Product and Net Content": "Forest Nectar Coffee Body Lotion (250 ml)",
+    "MRP(Rs.)": 1200.0,
+    "DP(Rs.)": 900.0,
+    "PV": 16.67,
+    "BV": 450.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MP0005",
+    "Product and Net Content": "Forest Nectar Coffee Body Wash (250 ml)",
+    "MRP(Rs.)": 1000.0,
+    "DP(Rs.)": 750.0,
+    "PV": 13.89,
+    "BV": 375.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "ENT",
+    "Product and Net Content": "Forest Nectar Coffee Foaming Face Wash (150 ml)",
+    "MRP(Rs.)": 1100.0,
+    "DP(Rs.)": 825.0,
+    "PV": 15.28,
+    "BV": 412.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MP0003",
+    "Product and Net Content": null,
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FN3",
+    "Product and Net Content": "Forest Nectar Coffee Frosted Gel Moisturizer (500 g)",
+    "MRP(Rs.)": 1000.0,
+    "DP(Rs.)": 750.0,
+    "PV": 13.89,
+    "BV": 375.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MP0007",
+    "Product and Net Content": "Forest Nectar Coffee Under Eye Cream (20 g)",
+    "MRP(Rs.)": 1000.0,
+    "DP(Rs.)": 750.0,
+    "PV": 13.89,
+    "BV": 375.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MP0009",
+    "Product and Net Content": "Forest Nectar Gudh 2 In 1 Face Scrub And Mask (100 g)",
+    "MRP(Rs.)": 1400.0,
+    "DP(Rs.)": 1050.0,
+    "PV": 19.44,
+    "BV": 525.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MP0013",
+    "Product and Net Content": "Forest Nectar Gudh Body Butter (200 g)",
+    "MRP(Rs.)": 2000.0,
+    "DP(Rs.)": 1500.0,
+    "PV": 27.78,
+    "BV": 750.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MP0011",
+    "Product and Net Content": "Forest Nectar Ough Body Lotion (250 ml)",
+    "MRP(Rs.)": 1200.0,
+    "DP(Rs.)": 900.0,
+    "PV": 16.67,
+    "BV": 450.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MP0012",
+    "Product and Net Content": "Forest Nectar Gudh Body Wash (250 ml)",
+    "MRP(Rs.)": 1200.0,
+    "DP(Rs.)": 900.0,
+    "PV": 16.67,
+    "BV": 450.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FN12",
+    "Product and Net Content": null,
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MPD008",
+    "Product and Net Content": null,
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FN8",
+    "Product and Net Content": "Forest Nectar Gudh Foaming Face Wash (150 ml)",
+    "MRP(Rs.)": 1200.0,
+    "DP(Rs.)": 700.0,
+    "PV": 16.67,
+    "BV": 450.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MPB010",
+    "Product and Net Content": null,
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FN10",
+    "Product and Net Content": "Forest Nectar Gudh Frosted Gel Moisturizer (50 g)",
+    "MRP(Rs.)": 1000.0,
+    "DP(Rs.)": 750.0,
+    "PV": 13.89,
+    "BV": 375.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "BEAUTY - HAIR CARE",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "MP0019",
+    "Product and Net Content": "Forest Nectar Intense Detangling Spray With Hyaluronic Acid (100 ml)",
+    "MRP(Rs.)": 850.0,
+    "DP(Rs.)": 638.0,
+    "PV": 11.81,
+    "BV": 319.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MP0016",
+    "Product and Net Content": "Forest Nectar Intense Hydrating Hair Serum With Hyaluronic Acid (50 ml)",
+    "MRP(Rs.)": 1100.0,
+    "DP(Rs.)": 825.0,
+    "PV": 15.28,
+    "BV": 412.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FN16",
+    "Product and Net Content": null,
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MP0014",
+    "Product and Net Content": "Forest Nectar Intense Hair Growth Serum With Hyaluronic Acid (50 ml)",
+    "MRP(Rs.)": 1300.0,
+    "DP(Rs.)": 975.0,
+    "PV": 18.06,
+    "BV": 487.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FN14",
+    "Product and Net Content": null,
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MP0017",
+    "Product and Net Content": "Forest Nectar Intense Hydrating Conditioner With Hyaluronic Acid (400 ml)",
+    "MRP(Rs.)": 1150.0,
+    "DP(Rs.)": 863.0,
+    "PV": 16.98,
+    "BV": 431.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FN17",
+    "Product and Net Content": null,
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MP0015",
+    "Product and Net Content": "Forest Nectar Intense Hydrating Hair Mask With Hyaluronic Acid (200 g)",
+    "MRP(Rs.)": 1600.0,
+    "DP(Rs.)": 1200.0,
+    "PV": 22.22,
+    "BV": 600.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FN15",
+    "Product and Net Content": null,
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MP0018",
+    "Product and Net Content": "Forest Nectar Intense Hydrating Shampoo With Hyaluronic Acid (400 ml)",
+    "MRP(Rs.)": 1150.0,
+    "DP(Rs.)": 863.0,
+    "PV": 15.98,
+    "BV": 431.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FN18",
+    "Product and Net Content": null,
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "KITCHEN SOLUTIONS - SMART STORAGE",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "SOUL CHEF VACUUM SEAL STACKABLE CONTAINER (SQUARE)",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "KA0004",
+    "Product and Net Content": "460 ml (1 Unit)",
+    "MRP(Rs.)": 1550.0,
+    "DP(Rs.)": 1163.0,
+    "PV": 21.54,
+    "BV": 581.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "KA0005",
+    "Product and Net Content": "1100 ml (1 Unit)",
+    "MRP(Rs.)": 2100.0,
+    "DP(Rs.)": 1575.0,
+    "PV": 29.17,
+    "BV": 787.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "KA0006",
+    "Product and Net Content": "1700 ml (1 Unit)",
+    "MRP(Rs.)": 2700.0,
+    "DP(Rs.)": 2025.0,
+    "PV": 37.5,
+    "BV": 1012.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "KA0007",
+    "Product and Net Content": "2300 ml (1 Unit)",
+    "MRP(Rs.)": 3000.0,
+    "DP(Rs.)": 2250.0,
+    "PV": 41.67,
+    "BV": 1125.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "KADD08",
+    "Product and Net Content": "Soul Chef Vacuum Seal Stackable Container (Square) (4 pieces) (460 ml, 1100 ml, 1700 ml & 2380 ml)",
+    "MRP(Rs.)": 9350.0,
+    "DP(Rs.)": 6375.0,
+    "PV": 118.06,
+    "BV": 3187.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "KAD016",
+    "Product and Net Content": "Yellow (4 Silicone Rims & 4 Silicone Valves) FITS: KA0004, KA0005, KA0006, KA0007, KA0000",
+    "MRP(Rs.)": 1600.0,
+    "DP(Rs.)": 1200.0,
+    "PV": 22.22,
+    "BV": 60.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "KAD017",
+    "Product and Net Content": "Grey (4 Silicone Rims & 4 Silicone Valves) FITS: KAD004, KAD005, KA0006, KA0007, KA0008",
+    "MRP(Rs.)": 1600.0,
+    "DP(Rs.)": 1200.0,
+    "PV": 22.22,
+    "BV": 600.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "SOUL CHEF VACUUM SEAL STACKABLE CONTAINER (RECTANGLE)",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "KA0009",
+    "Product and Net Content": "700 ml (1 Unit)",
+    "MRP(Rs.)": 2000.0,
+    "DP(Rs.)": 1500.0,
+    "PV": 27.78,
+    "BV": 750.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "KA0010",
+    "Product and Net Content": "1700 ml (1 Unit)",
+    "MRP(Rs.)": 2600.0,
+    "DP(Rs.)": 1950.0,
+    "PV": 36.11,
+    "BV": 975.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "KA0011",
+    "Product and Net Content": "2700 ml (1 Unit)",
+    "MRP(Rs.)": 3000.0,
+    "DP(Rs.)": 2250.0,
+    "PV": 41.67,
+    "BV": 1125.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "KAD012",
+    "Product and Net Content": "3500 ml (1 Unit)",
+    "MRP(Rs.)": 3400.0,
+    "DP(Rs.)": 2550.0,
+    "PV": 47.22,
+    "BV": 1275.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "KAD013",
+    "Product and Net Content": "Soul Chef Vacuum Seal Stackable Container (Rectangle) (4 pieces) (700 ml, 1700 ml, 2700 ml & 3500 ml)",
+    "MRP(Rs.)": 11000.0,
+    "DP(Rs.)": 7500.0,
+    "PV": 138.89,
+    "BV": 3750.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "SOUL CHEF SILICONE RIMS & VALVES 4 PIECE ACCESSORY FOR VACUUM SEAL STACKABLE CONTAINERS (RECTANGLE)",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "KAD018",
+    "Product and Net Content": "Yellow (4 Silicone Rims & 4 Silicone Valves) FITS: KA0009, KA0010, KA0011, KA0012, KA0013",
+    "MRP(Rs.)": 2100.0,
+    "DP(Rs.)": 1575.0,
+    "PV": 29.17,
+    "BV": 787.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "KAD019",
+    "Product and Net Content": "Grey (4 Silicone Rims & 4 Silicone Valves) FITS: KAD009, KAD010, KA0011, KA0012, KA0013",
+    "MRP(Rs.)": 2100.0,
+    "DP(Rs.)": 1675.0,
+    "PV": 29.17,
+    "BV": 787.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "MODIWAY",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "BUNDLE PACKS",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "BP1",
+    "Product and Net Content": "90 DAYS LIFE TRANSFORMATION BUNDLE PACK",
+    "MRP(Rs.)": 37004.0,
+    "DP(Rs.)": 25018.0,
+    "PV": 461.69,
+    "BV": 12465.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "ShapeShift Meal Replacement Nutritional Shake Chocolate Flavour (500 g) 9 Units",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "ShapeShift Fat Burner Capsule (30 Unit) 3 Units",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "ShapeShift Fat Burner Premix Powder-Lemon Flavour (60 g) (60 unit x 1 g) 3 Units",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "Well Multivitamin Multimineral (30 Unit) 1 Unit",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "ShapeShift Plant-Based Protein Powder Unflavoured (360 g) 1 Unit",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "ShapeShift Guide (1 Unit)",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "ShapeShift Progress Tracker (3 Units)",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "BP2",
+    "Product and Net Content": "ShapeShift Meal Replacement Nutritional Shake Mango Flavour (500 g) 9 Units",
+    "MRP(Rs.)": 37004.0,
+    "DP(Rs.)": 25018.0,
+    "PV": 461.69,
+    "BV": 12465.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "ShapeShift Fat Burner Capsule (30 Unit) 3 Units",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "ShapeShift Fat Burner Premix Powder-Lemon Flavour (60 g) (60 unit x 1 g) 3 Units",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "Well Multivitamin Multimineral (30 Unit) 1 Unit",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "ShapeShift Plant Based Protein Powder Unflavoured (360 g) 1 Unit",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "ShapeShift Guide (1 Unit)",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "ShapeShift Progress Tracker (3 Units)",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "RP3",
+    "Product and Net Content": "ShapeShift Meal Replacement Nutritional Shake Kulfi Flavour (500 g) 9 Units",
+    "MRP(Rs.)": 37004.0,
+    "DP(Rs.)": 25018.0,
+    "PV": 461.69,
+    "BV": 12465.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "ShapeShift Fat Burner Capsule (30 Unit) 3 Units",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "ShapeShift Fat Burner Premix Powder-Lemon Flavour (60 g) (60 unit x 1 g) 3 Units",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "Well Multivitamin Multimineral (30 Unit) 1 Unit",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "ShapeShift Plant-Based Protein Powder Unflavoured (360 g) 1 Unit",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "ShapeShift Guide (1 Unit)",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "ShapeShift Progress Tracker (3 Units)",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "30 DAYS BUNDLE PACK",
+    "MRP(Rs.)": 11684.0,
+    "DP(Rs.)": 8413.0,
+    "PV": 154.57,
+    "BV": 4173.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "BP4",
+    "Product and Net Content": "ShapeShift Meal Replacement Nutritional Shake Chocolate Flavour (500 g) 3 Units",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "ShapeShift Fat Burner Capsule (30 Unit) 1 Unit",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "ShapeShift Fat Burner Premix Powder-Lemon Flavour (60 g) (60 unit x 1 g) 1 Unit",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "Well Multivitamin Multimineral (30 Unit) 1 Unit",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "ShapeShift Guide (1 Unit)",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "ShapeShift Progress Tracker (1 Unit)",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "BP5",
+    "Product and Net Content": "ShapeShift Meal Replacement Nutritional Shake Mango Flavour (500 g) 3 Units",
+    "MRP(Rs.)": 11684.0,
+    "DP(Rs.)": 8413.0,
+    "PV": 154.57,
+    "BV": 4173.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "ShapeShift Fat Burner Capsule (30 Unit) 1 Unit",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "ShapeShift Fat Burner Premix Powder-Lemon Flavour (60 g) (60 unit x 1 g) 1 Unit",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "Well Multivitamin Multimineral (30 Unit) 1 Unit",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "ShapeShift Guide (1 Unit)",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "ShapeShift Progress Tracker (1 Unit)",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "BP6",
+    "Product and Net Content": "ShapeShift Meal Replacement Nutritional Shake Kulfi Flavour (500 g) 3 Units",
+    "MRP(Rs.)": 11684.0,
+    "DP(Rs.)": 8413.0,
+    "PV": 154.57,
+    "BV": 4173.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "ShapeShift Fat Burner Capsule (30 Unit) 1 Unit",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "ShapeShift Fat Burner Premix Powder-Lemon Flavour (60 g) (60 unit x 1 g) 1 Unit",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "Well Multivitamin Multimineral (30 Unit) 1 Unit",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "ShapeShift Guide (1 Unit)",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "ShapeShift Progress Tracker (1 Unit)",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "HEALTH & NUTRITION",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "SHAPESHIFT MEAL REPLACEMENT NUTRITIONAL SHAKE FOR WEIGHT CONTROL/MANAGEMENT",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "MW0001",
+    "Product and Net Content": "Chocolate Flavour (500 g)",
+    "MRP(Rs.)": 2750.0,
+    "DP(Rs.)": 2063.0,
+    "PV": 38.2,
+    "BV": 1031.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MW0002",
+    "Product and Net Content": "Vanilla Flavour (500 g)",
+    "MRP(Rs.)": 2750.0,
+    "DP(Rs.)": 2063.0,
+    "PV": 38.2,
+    "BV": 1031.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MW0883",
+    "Product and Net Content": "Mango Flavour (500 g)",
+    "MRP(Rs.)": 2750.0,
+    "DP(Rs.)": 2063.0,
+    "PV": 38.2,
+    "BV": 1031.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MW0004",
+    "Product and Net Content": "Kulfi Flavour (500 g)",
+    "MRP(Rs.)": 2750.0,
+    "DP(Rs.)": 2063.0,
+    "PV": 38.2,
+    "BV": 1031.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MW0005",
+    "Product and Net Content": "Rose Kheer Flavour (500 g)",
+    "MRP(Rs.)": 2750.0,
+    "DP(Rs.)": 2063.0,
+    "PV": 38.7,
+    "BV": 1831.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MW0006",
+    "Product and Net Content": "Banana Caramel Flavour (500 g)",
+    "MRP(Rs.)": 2750.0,
+    "DP(Rs.)": 2063.0,
+    "PV": 38.2,
+    "BV": 1031.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MW0007",
+    "Product and Net Content": "Strawberry Flavour (500 g)",
+    "MRP(Rs.)": 2750.0,
+    "DP(Rs.)": 2063.0,
+    "PV": 38.2,
+    "BV": 1031.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MW0008",
+    "Product and Net Content": "Rasmalai Flavour (500 g)",
+    "MRP(Rs.)": 2750.0,
+    "DP(Rs.)": 2063.0,
+    "PV": 38.2,
+    "BV": 1031.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "SHAPESHIFT FAT BURNER",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "MWODT1",
+    "Product and Net Content": "ShapeShift Fat Burner Capsule (30 Unit)",
+    "MRP(Rs.)": 1300.0,
+    "DP(Rs.)": 975.0,
+    "PV": 18.06,
+    "BV": 487.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MW0012",
+    "Product and Net Content": "ShapeShift Fat Burner Premix Powder-Lemon Flavour (60 g) (60 unit x 1 g)",
+    "MRP(Rs.)": 1500.0,
+    "DP(Rs.)": 1125.0,
+    "PV": 20.83,
+    "BV": 562.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "SHAPESHIFT PLANT-BASED PROTEIN POWDER",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "MG0001",
+    "Product and Net Content": "ShapeShift Plant-Based Protein Powder Unflavoured (360 g)",
+    "MRP(Rs.)": 32010.0,
+    "DP(Rs.)": 2400.0,
+    "PV": 44.44,
+    "BV": 1200.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "ACCESSORIES",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "MW0013",
+    "Product and Net Content": "Modiway Shaker With Blender Ball (1 Unit/650 ml) Green",
+    "MRP(Rs.)": 1500.0,
+    "DP(Rs.)": 1125.0,
+    "PV": 20.03,
+    "BV": 562.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "SOUL CHEF FLIPLOCK AIRTIGHT STACKABLE CONTAINER (SQUARE)",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "KA0020",
+    "Product and Net Content": "450 ml (1 Unit)",
+    "MRP(Rs.)": 1250.0,
+    "DP(Rs.)": 938.0,
+    "PV": 17.37,
+    "BV": 469.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "KA0021",
+    "Product and Net Content": "1100 ml (1 Unit)",
+    "MRP(Rs.)": 1600.0,
+    "DP(Rs.)": 1200.0,
+    "PV": 22.22,
+    "BV": 600.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "KA0022",
+    "Product and Net Content": "1700 ml (1 Unit)",
+    "MRP(Rs.)": 2000.0,
+    "DP(Rs.)": 1500.0,
+    "PV": 27.78,
+    "BV": 750.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "KA0023",
+    "Product and Net Content": "2300 ml (1 Unit)",
+    "MRP(Rs.)": 2300.0,
+    "DP(Rs.)": 1725.0,
+    "PV": 31.94,
+    "BV": 862.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "KA0024",
+    "Product and Net Content": "Soul Chef Fliplock Airtight Stackable Container (Square) (4 pieces) (450 ml, 1100 ml, 1700 ml & 2300 ml)",
+    "MRP(Rs.)": 7150.0,
+    "DP(Rs.)": 4875.0,
+    "PV": 90.78,
+    "BV": 2437.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "SOUL CHEF FLIPLOCK AIRTIGHT STACKABLE CONTAINER (RECTANGLE)",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "KA0025",
+    "Product and Net Content": "700 ml (1 Unit)",
+    "MRP(Rs.)": 1550.0,
+    "DP(Rs.)": 1163.0,
+    "PV": 21.54,
+    "BV": 581.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "KA0026",
+    "Product and Net Content": "1700 ml (1 Unit)",
+    "MRP(Rs.)": 2000.0,
+    "DP(Rs.)": 1500.0,
+    "PV": 27.78,
+    "BV": 760.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "KA0027",
+    "Product and Net Content": "2700 ml (1 Unit)",
+    "MRP(Rs.)": 2600.0,
+    "DP(Rs.)": 1950.0,
+    "PV": 36.11,
+    "BV": 975.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "KAU028",
+    "Product and Net Content": "3600 ml (1 Unit)",
+    "MRP(Rs.)": 3000.0,
+    "DP(Rs.)": 2250.0,
+    "PV": 41.67,
+    "BV": 1125.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "KA0029",
+    "Product and Net Content": "Soul Chef Fliplock Airtight Stackable Container (Rectangle) (4 pieces) (200 ml, 1700 ml, 2700 ml & 3600 ml)",
+    "MRP(Rs.)": 9150.0,
+    "DP(Rs.)": 6239.0,
+    "PV": 115.54,
+    "BV": 3119.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "SOUL CHEF VACUUM SEAL FOOD CONTAINER",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "KA0045",
+    "Product and Net Content": "550 ml (1 Unit)",
+    "MRP(Rs.)": 1480.0,
+    "DP(Rs.)": 1050.0,
+    "PV": 19.44,
+    "BV": 525.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "KA0046",
+    "Product and Net Content": "1200 ml (1 Unit)",
+    "MRP(Rs.)": 1900.0,
+    "DP(Rs.)": 1425.0,
+    "PV": 26.39,
+    "BV": 712.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "KA0047",
+    "Product and Net Content": "2300 ml (1 Unit)",
+    "MRP(Rs.)": 2850.0,
+    "DP(Rs.)": 2130.0,
+    "PV": 39.59,
+    "BV": 1869.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "SOUL CHEF VACUUM PUMP",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "KADOT4",
+    "Product and Net Content": "Vacuum Seal Electric Pump (1 Unit)",
+    "MRP(Rs.)": 6200.0,
+    "DP(Rs.)": 4650.0,
+    "PV": 86.11,
+    "BV": 2325.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "KA0015",
+    "Product and Net Content": "Vacuum Seal Manual Pump (1 Unit)",
+    "MRP(Rs.)": 1100.0,
+    "DP(Rs.)": 825.0,
+    "PV": 15.28,
+    "BV": 412.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "SOUL CHEF KEEP FRESH PRODUCE KEEPER",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "KAD030",
+    "Product and Net Content": "1100 ml - Yellow (1 Unit)",
+    "MRP(Rs.)": 2400.0,
+    "DP(Rs.)": 1800.0,
+    "PV": 33.33,
+    "BV": 900.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "KA0032",
+    "Product and Net Content": "2900 ml - Grey (1 Unit)",
+    "MRP(Rs.)": 3400.0,
+    "DP(Rs.)": 2550.0,
+    "PV": 47.22,
+    "BV": 1275.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "KA0033",
+    "Product and Net Content": "4700 ml - Blue (1 Unit)",
+    "MRP(Rs.)": 4200.0,
+    "DP(Rs.)": 3154.0,
+    "PV": 58.33,
+    "BV": 1575.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "SOUL CHEF AIRTIGHT ROUND CANISTERS",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "KA0043",
+    "Product and Net Content": "Soul Chef Airtight 3 Piece Round Canisters (1 Round Container Set - 3 pieces)",
+    "MRP(Rs.)": 4900.0,
+    "DP(Rs.)": 3675.0,
+    "PV": 68.06,
+    "BV": 1837.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "SOUL CHEF STACKABLE AIRTIGHT 3 PIECE CONTAINER - RECTANGLE",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "SC51",
+    "Product and Net Content": "Yellow (1 Set of Container - 3 Unit) (890 ml, 1900 ml & 3300 ml)",
+    "MRP(Rs.)": 4500.0,
+    "DP(Rs.)": 3375.0,
+    "PV": 62.5,
+    "BV": 1687.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "SC5Z",
+    "Product and Net Content": "Grey (1 Set of Container - 3 Unit) (890 ml, 1900 ml & 3300 ml)",
+    "MRP(Rs.)": 4500.0,
+    "DP(Rs.)": 3375.0,
+    "PV": 62.5,
+    "BV": 1687.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "SC53",
+    "Product and Net Content": "SOUL CHEF STACKABLE AIRTIGHT 4 PIECE CONTAINER - ROUND Yellow (1 Set of Container - 4 Unit) (800 ml, 1500 ml, 2600 ml & 4000 ml)",
+    "MRP(Rs.)": 5000.0,
+    "DP(Rs.)": 3750.0,
+    "PV": 69.44,
+    "BV": 1875.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "5054",
+    "Product and Net Content": "Grey (1 Set of Container - 4 Unit) (800 ml, 1500 ml, 2600 ml & 4000 ml)",
+    "MRP(Rs.)": 5000.0,
+    "DP(Rs.)": 3750.0,
+    "PV": 69.44,
+    "BV": 1875.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "HEALTH & NUTRITION",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "HL2005",
+    "Product and Net Content": "Well Garlic Pearls (100 Unit)",
+    "MRP(Rs.)": 480.0,
+    "DP(Rs.)": 360.0,
+    "PV": 6.66,
+    "BV": 180.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "H12003",
+    "Product and Net Content": "Well Amrit Shakti (100 Unit)",
+    "MRP(Rs.)": 540.0,
+    "DP(Rs.)": 405.0,
+    "PV": 8.75,
+    "BV": 222.75,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL2000",
+    "Product and Net Content": "Well Spirina (100 Unit)",
+    "MRP(Rs.)": 569.0,
+    "DP(Rs.)": 420.0,
+    "PV": 9.51,
+    "BV": 256.8,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "H12006",
+    "Product and Net Content": "Well Noni Juice Concentrate (1L)",
+    "MRP(Rs.)": 731.0,
+    "DP(Rs.)": 549.0,
+    "PV": 8.13,
+    "BV": 219.6,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL2138",
+    "Product and Net Content": "Well Noni Gold Juice (500 ml)",
+    "MRP(Rs.)": 1332.0,
+    "DP(Rs.)": 999.0,
+    "PV": 22.2,
+    "BV": 599.4,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL2009",
+    "Product and Net Content": "Well Multivitamin Multimineral (30 Unit)",
+    "MRP(Rs.)": 514.0,
+    "DP(Rs.)": 387.0,
+    "PV": 7.88,
+    "BV": 212.85,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "H12014",
+    "Product and Net Content": "Well Calcium Complex (60 Unit)",
+    "MRP(Rs.)": 603.0,
+    "DP(Rs.)": 454.0,
+    "PV": 9.25,
+    "BV": 249.7,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL2002",
+    "Product and Net Content": "Well Tux (60 Unit)",
+    "MRP(Rs.)": 644.0,
+    "DP(Rs.)": 485.0,
+    "PV": 10.78,
+    "BV": 291.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL1001",
+    "Product and Net Content": "Well Strong & Smart (Chocolate Flavour) (200 g)",
+    "MRP(Rs.)": 822.0,
+    "DP(Rs.)": 618.0,
+    "PV": 12.59,
+    "BV": 339.9,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL1003",
+    "Product and Net Content": "Well Protein Crest (Velvet Chocolate) (500 g)",
+    "MRP(Rs.)": 1679.0,
+    "DP(Rs.)": 1262.0,
+    "PV": 23.37,
+    "BV": 631.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL1005",
+    "Product and Net Content": "Well Glucosamine with Boswellia & Curcumin (120 Unit)",
+    "MRP(Rs.)": 1768.0,
+    "DP(Rs.)": 1329.0,
+    "PV": 29.53,
+    "BV": 797.48,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL1008",
+    "Product and Net Content": "Well Korean Red Ginseng - 6 Yrs. Old (60 Unit)",
+    "MRP(Rs.)": 2740.0,
+    "DP(Rs.)": 2060.0,
+    "PV": 41.96,
+    "BV": 1133.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL2001",
+    "Product and Net Content": "Well Cardio Activ (60 Unit)",
+    "MRP(Rs.)": 617.0,
+    "DP(Rs.)": 464.0,
+    "PV": 10.31,
+    "BV": 278.4,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL2012",
+    "Product and Net Content": "Well Amla Juice (1 L)",
+    "MRP(Rs.)": 449.0,
+    "DP(Rs.)": 352.0,
+    "PV": 5.21,
+    "BV": 140.8,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL2011",
+    "Product and Net Content": "Well Aloe Vera (1 L)",
+    "MRP(Rs.)": 439.0,
+    "DP(Rs.)": 330.0,
+    "PV": 4.89,
+    "BV": 132.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL2139",
+    "Product and Net Content": "Well Shilajit Ojas Gold with Kesar & Safed Musli (30 Unit)",
+    "MRP(Rs.)": 915.0,
+    "DP(Rs.)": 686.0,
+    "PV": 12.7,
+    "BV": 343.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "H12024",
+    "Product and Net Content": "Well Omega 3 Antarctic Krill Oil (30 Unit)",
+    "MRP(Rs.)": 1850.0,
+    "DP(Rs.)": 1391.0,
+    "PV": 28.34,
+    "BV": 765.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL2053",
+    "Product and Net Content": "Well Turmeric (60 Unit)",
+    "MRP(Rs.)": 1506.0,
+    "DP(Rs.)": 1132.0,
+    "PV": 25.16,
+    "BV": 679.2,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL2026",
+    "Product and Net Content": "Well Ashwagandha (60 Unit)",
+    "MRP(Rs.)": 548.0,
+    "DP(Rs.)": 412.0,
+    "PV": 9.16,
+    "BV": 247.2,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL2028",
+    "Product and Net Content": "Well Tulsi (60 Unit)",
+    "MRP(Rs.)": 548.0,
+    "DP(Rs.)": 412.0,
+    "PV": 9.16,
+    "BV": 247.2,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL2025",
+    "Product and Net Content": "Well Amla (60 Unit)",
+    "MRP(Rs.)": 245.0,
+    "DP(Rs.)": 205.0,
+    "PV": 4.56,
+    "BV": 123.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "H12029",
+    "Product and Net Content": "Well Brahmi (60 Unit)",
+    "MRP(Rs.)": 548.0,
+    "DP(Rs.)": 412.0,
+    "PV": 9.16,
+    "BV": 247.2,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL2054",
+    "Product and Net Content": "Well BrainActiv (30 Unit)",
+    "MRP(Rs.)": 1411.0,
+    "DP(Rs.)": 1061.0,
+    "PV": 23.58,
+    "BV": 636.6,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL1006",
+    "Product and Net Content": "Well Intellecte (30 Unit)",
+    "MRP(Rs.)": 1302.0,
+    "DP(Rs.)": 979.0,
+    "PV": 21.76,
+    "BV": 587.4,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL2030",
+    "Product and Net Content": "Well Noni (90 Unit)",
+    "MRP(Rs.)": 605.0,
+    "DP(Rs.)": 515.0,
+    "PV": 11.44,
+    "BV": 309.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL2058",
+    "Product and Net Content": "Well Chyawanprash (500 g)",
+    "MRP(Rs.)": 274.0,
+    "DP(Rs.)": 206.0,
+    "PV": 3.05,
+    "BV": 82.4,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL2065",
+    "Product and Net Content": "Well Giloy (60 Unit)",
+    "MRP(Rs.)": 273.0,
+    "DP(Rs.)": 205.0,
+    "PV": 4.56,
+    "BV": 123.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL2071",
+    "Product and Net Content": "Well Karela Jamun Juice (1 L)",
+    "MRP(Rs.)": 461.0,
+    "DP(Rs.)": 347.0,
+    "PV": 4.5,
+    "BV": 121.45,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL2974",
+    "Product and Net Content": "Well Triphala (60 Unit)",
+    "MRP(Rs.)": 357.0,
+    "DP(Rs.)": 268.0,
+    "PV": 5.96,
+    "BV": 160.8,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL2066",
+    "Product and Net Content": "Well Vitamin C (60 Unit)",
+    "MRP(Rs.)": 595.0,
+    "DP(Rs.)": 448.0,
+    "PV": 9.13,
+    "BV": 246.4,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL2135",
+    "Product and Net Content": "Well Vitamin D3 (60 Unit)",
+    "MRP(Rs.)": 595.0,
+    "DP(Rs.)": 448.0,
+    "PV": 9.96,
+    "BV": 268.8,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL2067",
+    "Product and Net Content": "Well Iron & Folic Acid (60 Unit)",
+    "MRP(Rs.)": 388.0,
+    "DP(Rs.)": 292.0,
+    "PV": 6.49,
+    "BV": 175.2,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL2072",
+    "Product and Net Content": "Well Vitamin B-Complex (60 Unit)",
+    "MRP(Rs.)": 595.0,
+    "DP(Rs.)": 448.0,
+    "PV": 9.96,
+    "BV": 268.8,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL2075",
+    "Product and Net Content": "Well Herbal Tea Latte (100 g)",
+    "MRP(Rs.)": 349.0,
+    "DP(Rs.)": 303.0,
+    "PV": 3.99,
+    "BV": 106.05,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL2084",
+    "Product and Net Content": "Well Aloe Vera Plus (1 L)",
+    "MRP(Rs.)": 935.0,
+    "DP(Rs.)": 703.0,
+    "PV": 13.0,
+    "BV": 351.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL2067",
+    "Product and Net Content": "Well Kids Immunity & Brain Booster Herbal Tonic (500 ml)",
+    "MRP(Rs.)": 833.0,
+    "DP(Rs.)": 677.0,
+    "PV": 13.93,
+    "BV": 376.2,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL2086",
+    "Product and Net Content": "Well Palm Oil (100 ml)",
+    "MRP(Rs.)": 513.0,
+    "DP(Rs.)": 386.0,
+    "PV": 8.58,
+    "BV": 231.6,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL2085",
+    "Product and Net Content": "Well Fiber (150 g) (30 Unit x 5 g)",
+    "MRP(Rs.)": 999.0,
+    "DP(Rs.)": 869.0,
+    "PV": 19.31,
+    "BV": 521.4,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL2115",
+    "Product and Net Content": "Well Gluco Health (60 Unit)",
+    "MRP(Rs.)": 1142.0,
+    "DP(Rs.)": 858.0,
+    "PV": 19.07,
+    "BV": 514.8,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL2114",
+    "Product and Net Content": "Well Vision Health (30 Unit)",
+    "MRP(Rs.)": 1142.0,
+    "DP(Rs.)": 858.0,
+    "PV": 20.66,
+    "BV": 557.7,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL2116",
+    "Product and Net Content": "Well Prostate Health (30 Unit)",
+    "MRP(Rs.)": 1027.0,
+    "DP(Rs.)": 772.0,
+    "PV": 18.59,
+    "BV": 501.8,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL2128",
+    "Product and Net Content": "Well Cranberry D-Mannose (300 Unit)",
+    "MRP(Rs.)": 1369.0,
+    "DP(Rs.)": 1029.0,
+    "PV": 20.96,
+    "BV": 565.95,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL2129",
+    "Product and Net Content": "Well Multivitamin Multimineral Women (60 Unit)",
+    "MRP(Rs.)": 1170.0,
+    "DP(Rs.)": 880.0,
+    "PV": 19.56,
+    "BV": 528.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL2130",
+    "Product and Net Content": "Well Multivitamin Multimineral Men (60 Unit)",
+    "MRP(Rs.)": 1170.0,
+    "DP(Rs.)": 880.0,
+    "PV": 19.54,
+    "BV": 528.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL2131",
+    "Product and Net Content": "Well Sleep Support (60 Unit)",
+    "MRP(Rs.)": 1369.0,
+    "DP(Rs.)": 1029.0,
+    "PV": 24.77,
+    "BV": 668.85,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL2124",
+    "Product and Net Content": "Well Asht Tulsi Drops (30 ml)",
+    "MRP(Rs.)": 260.0,
+    "DP(Rs.)": 195.0,
+    "PV": 3.61,
+    "BV": 97.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL2136",
+    "Product and Net Content": "Well Kidney Regen (30 Unit)",
+    "MRP(Rs.)": 1723.0,
+    "DP(Rs.)": 1293.0,
+    "PV": 28.73,
+    "BV": 775.8,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL2137",
+    "Product and Net Content": "Well Liver Regen (30 Unit)",
+    "MRP(Rs.)": 1723.0,
+    "DP(Rs.)": 1293.0,
+    "PV": 28.73,
+    "BV": 775.8,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL2125",
+    "Product and Net Content": "Well Cordyceps Militaris Drops (30 ml)",
+    "MRP(Rs.)": 5187.0,
+    "DP(Rs.)": 3900.0,
+    "PV": 86.67,
+    "BV": 2340.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL2132",
+    "Product and Net Content": "Well Freedom Tablet (24 Unit)",
+    "MRP(Rs.)": 684.0,
+    "DP(Rs.)": 514.0,
+    "PV": 17.37,
+    "BV": 334.1,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL2133",
+    "Product and Net Content": "Well Freedom Roll On (50 ml)",
+    "MRP(Rs.)": 684.0,
+    "DP(Rs.)": 514.0,
+    "PV": 12.37,
+    "BV": 334.1,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL2134",
+    "Product and Net Content": "Well Freedom Powder 50 g (10 Unit x 5 g)",
+    "MRP(Rs.)": 570.0,
+    "DP(Rs.)": 429.0,
+    "PV": 10.33,
+    "BV": 278.85,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL2118",
+    "Product and Net Content": "Well Hair, Skin & Nail Gummy (38 Unit)",
+    "MRP(Rs.)": 640.0,
+    "DP(Rs.)": 630.0,
+    "PV": 14.0,
+    "BV": 378.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL2120",
+    "Product and Net Content": "Well Yummy-Tamin Gummy (30 Unit)",
+    "MRP(Rs.)": 840.0,
+    "DP(Rs.)": 630.0,
+    "PV": 14.0,
+    "BV": 378.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL2121",
+    "Product and Net Content": "Well Sharp Eye Gummy (30 Unit)",
+    "MRP(Rs.)": 840.0,
+    "DP(Rs.)": 630.0,
+    "PV": 14.0,
+    "BV": 378.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "MODICARE PREMIUM PROTECTION MASK",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "HL2032",
+    "Product and Net Content": "Medium (Navy Blue Mask + 1 Black Mask) (2 Unit)",
+    "MRP(Rs.)": 230.0,
+    "DP(Rs.)": 199.0,
+    "PV": 3.69,
+    "BV": 99.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL2036",
+    "Product and Net Content": "Extra Comfort (Black Mask) (1 Unit)",
+    "MRP(Rs.)": 190.0,
+    "DP(Rs.)": 165.0,
+    "PV": 90.0,
+    "BV": 82.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL2037",
+    "Product and Net Content": "Pack of 2 with 1 Lanyard (2 Unit)",
+    "MRP(Rs.)": 250.0,
+    "DP(Rs.)": 225.0,
+    "PV": 4.17,
+    "BV": 112.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "MODICARE ENVIROCHIP",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "HL0001",
+    "Product and Net Content": "Black (1 Unit)",
+    "MRP(Rs.)": 931.0,
+    "DP(Rs.)": 700.0,
+    "PV": 12.96,
+    "BV": 350.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL0002",
+    "Product and Net Content": "Blue (1 Unit)",
+    "MRP(Rs.)": 931.0,
+    "DP(Rs.)": 700.0,
+    "PV": 12.96,
+    "BV": 350.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL0003",
+    "Product and Net Content": "Magenta (1 Unit)",
+    "MRP(Rs.)": 931.0,
+    "DP(Rs.)": 700.0,
+    "PV": 12.96,
+    "BV": 350.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL0004",
+    "Product and Net Content": "Silver (1 Unit)",
+    "MRP(Rs.)": 931.0,
+    "DP(Rs.)": 700.0,
+    "PV": 12.96,
+    "BV": 350.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL2021",
+    "Product and Net Content": "Modicare Enviroglobe Silver (1 Unit)",
+    "MRP(Rs.)": 5817.0,
+    "DP(Rs.)": 4374.0,
+    "PV": 81.0,
+    "BV": 2187.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL2022",
+    "Product and Net Content": "Modicare Enviroglobe Rose Gold (1 Unit)",
+    "MRP(Rs.)": 5817.0,
+    "DP(Rs.)": 4374.0,
+    "PV": 1.0,
+    "BV": 2187.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "PERSONAL CARE",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "BABY SPA",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "BC0002",
+    "Product and Net Content": "Baby Spa Nourishing Soap (75 g)",
+    "MRP(Rs.)": 100.0,
+    "DP(Rs.)": 75.0,
+    "PV": 1.25,
+    "BV": 33.76,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "BC0003",
+    "Product and Net Content": "Baby Spa Milk Cream (50 g)",
+    "MRP(Rs.)": 143.0,
+    "DP(Rs.)": 107.0,
+    "PV": 1.78,
+    "BV": 48.15,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "B00004",
+    "Product and Net Content": "Baby Spa Moisturising Lotion (200 ml)",
+    "MRP(Rs.)": 192.0,
+    "DP(Rs.)": 175.0,
+    "PV": 2.97,
+    "BV": 78.75,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "BC0005",
+    "Product and Net Content": "Baby Spa No-Tears Shampoo (200 ml)",
+    "MRP(Rs.)": 278.0,
+    "DP(Rs.)": 209.0,
+    "PV": 3.48,
+    "BV": 94.05,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "BCODOR",
+    "Product and Net Content": "Baby Spa Massage Oil (200 ml)",
+    "MRP(Rs.)": 288.0,
+    "DP(Rs.)": 215.0,
+    "PV": 3.58,
+    "BV": 96.75,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "BC0009",
+    "Product and Net Content": "Baby Spa Talc Powder (100 g)",
+    "MRP(Rs.)": 115.0,
+    "DP(Rs.)": 87.0,
+    "PV": 1.45,
+    "BV": 39.15,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "BC0010",
+    "Product and Net Content": "Baby Spa 2 in 1 Bubble Bath & Wash (200 ml)",
+    "MRP(Rs.)": 221.0,
+    "DP(Rs.)": 201.0,
+    "PV": 3.35,
+    "BV": 90.45,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "FRESH MOMENTS",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "PC2000",
+    "Product and Net Content": "Fresh Moments Toothpaste (100 g)",
+    "MRP(Rs.)": 107.0,
+    "DP(Rs.)": 80.0,
+    "PV": 1.33,
+    "BV": 36.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC21001",
+    "Product and Net Content": "Fresh Moments Toothbrush (3 Unit)",
+    "MRP(Rs.)": 284.0,
+    "DP(Rs.)": 214.0,
+    "PV": 3.17,
+    "BV": 85.6,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC2002",
+    "Product and Net Content": "Fresh Moments Toothbrush (4 Unit)",
+    "MRP(Rs.)": 237.0,
+    "DP(Rs.)": 179.0,
+    "PV": 2.65,
+    "BV": 71.6,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PCZ004",
+    "Product and Net Content": "Fresh Moments Gel Toothpaste (100 g)",
+    "MRP(Rs.)": 149.0,
+    "DP(Rs.)": 112.0,
+    "PV": 1.87,
+    "BV": 60.4,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC0035",
+    "Product and Net Content": "Fresh Moments Anti-Cavity Toothpaste (100 g)",
+    "MRP(Rs.)": 81.0,
+    "DP(Rs.)": 61.0,
+    "PV": 0.56,
+    "BV": 15.25,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC0036",
+    "Product and Net Content": "Fresh Moments Herbal Toothpaste (100 g)",
+    "MRP(Rs.)": 92.0,
+    "DP(Rs.)": 69.0,
+    "PV": 0.64,
+    "BV": 17.25,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC0080",
+    "Product and Net Content": "Fresh Moments Kids Toothpaste (80 g)",
+    "MRP(Rs.)": 185.0,
+    "DP(Rs.)": 140.0,
+    "PV": 2.59,
+    "BV": 70.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC0081",
+    "Product and Net Content": "Fresh Moments Kids Toothbrush (4 Unit)",
+    "MRP(Rs.)": 154.0,
+    "DP(Rs.)": 115.0,
+    "PV": 2.13,
+    "BV": 67.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "SOFWASH",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "PC5229",
+    "Product and Net Content": "Sofwash White Pearl Soap 300 g (4 Unit x 75 g)",
+    "MRP(Rs.)": 287.0,
+    "DP(Rs.)": 216.0,
+    "PV": 1.6,
+    "BV": 97.2,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC4003",
+    "Product and Net Content": "Sofwash Glycerin & Honey Bar 200 g (2 Unit x 100 g)",
+    "MRP(Rs.)": 213.0,
+    "DP(Rs.)": 160.0,
+    "PV": 2.67,
+    "BV": 72.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC4014",
+    "Product and Net Content": "Sofwash Anti-bacterial Soap (75 g)",
+    "MRP(Rs.)": 79.0,
+    "DP(Rs.)": 59.0,
+    "PV": 0.98,
+    "BV": 26.55,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC4015",
+    "Product and Net Content": "Sofwash Sandal Soap 300 g (4 Unit x 75 g)",
+    "MRP(Rs.)": 191.0,
+    "DP(Rs.)": 144.0,
+    "PV": 1.07,
+    "BV": 28.8,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC4016",
+    "Product and Net Content": "Sofwash Lime Soap 300 g (4 Unit x 75 g)",
+    "MRP(Rs.)": 191.0,
+    "DP(Rs.)": 144.0,
+    "PV": 1.07,
+    "BV": 28.8,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC4017",
+    "Product and Net Content": "Sofwash Orange Soap 300 g (4 Unit x 75 g)",
+    "MRP(Rs.)": 191.0,
+    "DP(Rs.)": 144.0,
+    "PV": 1.07,
+    "BV": 28.8,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "KITCHEN SOLUTIONS - FOOD PREP",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "KAUOD",
+    "Product and Net Content": "Soul Chef Multi-Use 8 Piece Food Prep Set (1 Food Prep Set (8 pieces) (Large non-slip mixing bowl, Small non-slip mixing bowl, Stainless steel mesh sieve, Colander, Measuring Cup 60 ml, Measuring Cup 80 ml, Measuring Cup 125 ml & Measuring Cup 250 ml))",
+    "MRP(Rs.)": 6400.0,
+    "DP(Rs.)": 4800.0,
+    "PV": 88.89,
+    "BV": 2400.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "KA0002",
+    "Product and Net Content": "Soul Chef Compact 4 Piece Measuring Cups (1 Set of measuring cups (4 pieces) (60 ml, 80 ml, 125 ml & 250 ml))",
+    "MRP(Rs.)": 850.0,
+    "DP(Rs.)": 630.0,
+    "PV": 11.81,
+    "BV": 319.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "KAD003",
+    "Product and Net Content": "Soul Chef Juice Mate Citrus Squeezer (1 Unit)",
+    "MRP(Rs.)": 600.0,
+    "DP(Rs.)": 450.0,
+    "PV": 8.33,
+    "BV": 225.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "KA0034",
+    "Product and Net Content": "Soul Chef Spin & Serve Salad Spinner 3000 ml (1 Unit)",
+    "MRP(Rs.)": 3500.0,
+    "DP(Rs.)": 2625.0,
+    "PV": 48.61,
+    "BV": 1312.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "KAD042",
+    "Product and Net Content": "Soul Chef 2-in-1 Mixing Bowl With Colander (1 Mixing Bowl & 1 Colander)",
+    "MRP(Rs.)": 2100.0,
+    "DP(Rs.)": 1575.0,
+    "PV": 29.17,
+    "BV": 787.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "KA0044",
+    "Product and Net Content": "Soul Chef Kitchen Organizer with Index Chopping Boards (1 Set of Kitchen Organizer with Index Chopping Boards)",
+    "MRP(Rs.)": 7700.0,
+    "DP(Rs.)": 5775.0,
+    "PV": 106.94,
+    "BV": 2887.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "KAD048",
+    "Product and Net Content": "Soul Chef Spray & Drizzle Oil Dispenser 560 ml (1 Unit)",
+    "MRP(Rs.)": 2750.0,
+    "DP(Rs.)": 2063.0,
+    "PV": 38.2,
+    "BV": 1831.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "KAD049",
+    "Product and Net Content": "Soul Chef Brush Ease Oil Bottle With Basting Brush 180 ml (1 Unit)",
+    "MRP(Rs.)": 1200.0,
+    "DP(Rs.)": 900.0,
+    "PV": 16.67,
+    "BV": 450.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "SC50",
+    "Product and Net Content": "Soul Chef Acaciaedge 5 Piece Knife Set with Wooden Stand (1 Unit (5 Knife - 1 Wooden Stand)) Group Package",
+    "MRP(Rs.)": 17500.0,
+    "DP(Rs.)": 8999.0,
+    "PV": 133.32,
+    "BV": 3599.6,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "SOUL CHEF SOAK & STRAIN FOOD WASHING BOWL WITH STRAINER",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "KA0035",
+    "Product and Net Content": "2000 ml - Yellow (1 Unit)",
+    "MRP(Rs.)": 2000.0,
+    "DP(Rs.)": 1500.0,
+    "PV": 27.78,
+    "BV": 750.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "KA0036",
+    "Product and Net Content": "5000 ml - Grey (1 Unit)",
+    "MRP(Rs.)": 3700.0,
+    "DP(Rs.)": 2775.0,
+    "PV": 51.39,
+    "BV": 1387.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "KA0037",
+    "Product and Net Content": "3000ml - Blue (1 Unit)",
+    "MRP(Rs.)": 2700.0,
+    "DP(Rs.)": 2075.0,
+    "PV": 37.5,
+    "BV": 1012.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "LITERATURE & SALES AIDS",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "LM0005",
+    "Product and Net Content": "Modiway Product Catalogue",
+    "MRP(Rs.)": 85.0,
+    "DP(Rs.)": 85.0,
+    "PV": 0.0,
+    "BV": 0.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "LM0006",
+    "Product and Net Content": "ShapeShift Guide",
+    "MRP(Rs.)": 110.0,
+    "DP(Rs.)": 110.0,
+    "PV": 1.02,
+    "BV": 27.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "LM0007",
+    "Product and Net Content": "ShapeShift Progress Tracker",
+    "MRP(Rs.)": 20.0,
+    "DP(Rs.)": 20.0,
+    "PV": 0.19,
+    "BV": 5.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "MERCHANDISE",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "TS0001",
+    "Product and Net Content": "Modiway Collared T-Shirt White - S (1 Unit)",
+    "MRP(Rs.)": 1500.0,
+    "DP(Rs.)": 1125.0,
+    "PV": 16.67,
+    "BV": 450.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "TS0002",
+    "Product and Net Content": "Modiway Collared T-Shirt White - M (1 Unit)",
+    "MRP(Rs.)": 1500.0,
+    "DP(Rs.)": 1125.0,
+    "PV": 16.67,
+    "BV": 450.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "TS0003",
+    "Product and Net Content": "Modiway Collared T-Shirt White - L (1 Unit)",
+    "MRP(Rs.)": 1500.0,
+    "DP(Rs.)": 1125.0,
+    "PV": 16.67,
+    "BV": 450.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "TS0004",
+    "Product and Net Content": "Modiway Collared T-Shirt White - XL (1 Unit)",
+    "MRP(Rs.)": 1500.0,
+    "DP(Rs.)": 1125.0,
+    "PV": 16.67,
+    "BV": 450.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "TS0005",
+    "Product and Net Content": "Modiway Collared T-Shirt White - XXL (1 Unit)",
+    "MRP(Rs.)": 1500.0,
+    "DP(Rs.)": 1125.0,
+    "PV": 16.67,
+    "BV": 450.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "TS0006",
+    "Product and Net Content": "Modiway Collared T-Shirt White - XXXL (1 Unit)",
+    "MRP(Rs.)": 1500.0,
+    "DP(Rs.)": 1125.0,
+    "PV": 16.67,
+    "BV": 450.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "TS0007",
+    "Product and Net Content": "Modiway Collared T-Shirt Navy - S (1 Unit)",
+    "MRP(Rs.)": 1500.0,
+    "DP(Rs.)": 1125.0,
+    "PV": 16.67,
+    "BV": 450.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "TS0008",
+    "Product and Net Content": "Modiway Collared T-Shirt Navy - M (1 Unit)",
+    "MRP(Rs.)": 1500.0,
+    "DP(Rs.)": 1125.0,
+    "PV": 16.67,
+    "BV": 450.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "TS0009",
+    "Product and Net Content": "Modiway Collared T-Shirt Navy - L (1 Unit)",
+    "MRP(Rs.)": 1500.0,
+    "DP(Rs.)": 1125.0,
+    "PV": 16.67,
+    "BV": 450.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "TS0010",
+    "Product and Net Content": "Modiway Collared T-Shirt Navy - XL (1 Unit)",
+    "MRP(Rs.)": 1500.0,
+    "DP(Rs.)": 1125.0,
+    "PV": 16.67,
+    "BV": 450.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "TS0011",
+    "Product and Net Content": "Modiway Collared T-Shirt Navy - XXL (1 Unit)",
+    "MRP(Rs.)": 15000.0,
+    "DP(Rs.)": 1125.0,
+    "PV": 16.67,
+    "BV": 450.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "TS0012",
+    "Product and Net Content": "Modiway Collared T-Shirt Navy - XXXL (1 Unit)",
+    "MRP(Rs.)": 1500.0,
+    "DP(Rs.)": 1125.0,
+    "PV": 36.67,
+    "BV": 450.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "WS0001",
+    "Product and Net Content": "Modiway Denim Shirt - S (1 Unit)",
+    "MRP(Rs.)": 2800.0,
+    "DP(Rs.)": 2100.0,
+    "PV": 31.11,
+    "BV": 840.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "WS0002",
+    "Product and Net Content": "Modiway Denim Shirt - M (1 Unit)",
+    "MRP(Rs.)": 2800.0,
+    "DP(Rs.)": 2100.0,
+    "PV": 31.11,
+    "BV": 840.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "WS0003",
+    "Product and Net Content": "Modiway Denim Shirt - L (1 Unit)",
+    "MRP(Rs.)": 2800.0,
+    "DP(Rs.)": 2100.0,
+    "PV": 31.11,
+    "BV": 840.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "WS0004",
+    "Product and Net Content": "Modiway Denim Shirt - XL (1 Unit)",
+    "MRP(Rs.)": 2800.0,
+    "DP(Rs.)": 2100.0,
+    "PV": 31.11,
+    "BV": 840.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "WS0005",
+    "Product and Net Content": "Modiway Denim Shirt - XXL (1 Unit)",
+    "MRP(Rs.)": 2800.0,
+    "DP(Rs.)": 2100.0,
+    "PV": 31.11,
+    "BV": 840.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "WS0006",
+    "Product and Net Content": "Modiway Denim Shirt - XXXL (1 Unit)",
+    "MRP(Rs.)": 2800.0,
+    "DP(Rs.)": 2100.0,
+    "PV": 31.11,
+    "BV": 840.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "MODICARE NUTRITION, HEALTH AND WELLNESS",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "FS6051",
+    "Product and Net Content": "Well All Plant Protein Powder (200 g)",
+    "MRP(Rs.)": 1465.0,
+    "DP(Rs.)": 1099.0,
+    "PV": 20.35,
+    "BV": 549.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FS5052",
+    "Product and Net Content": "Well All Plant Protein Powder (500 g)",
+    "MRP(Rs.)": 3100.0,
+    "DP(Rs.)": 2325.0,
+    "PV": 43.06,
+    "BV": 1162.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL2007",
+    "Product and Net Content": "Well Pudina with Tulsi (100 Unit)",
+    "MRP(Rs.)": 480.0,
+    "DP(Rs.)": 360.0,
+    "PV": 216.08,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HL2004",
+    "Product and Net Content": "Well Flax Oil (90 Unit)",
+    "MRP(Rs.)": 785.0,
+    "DP(Rs.)": 589.0,
+    "PV": 13.08,
+    "BV": 353.25,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC4018",
+    "Product and Net Content": "Sofwash Aloe Vera, Neem, Tulsi Soap 300 g (4 Unit x 75 g)",
+    "MRP(Rs.)": 191.0,
+    "DP(Rs.)": 144.0,
+    "PV": 1.07,
+    "BV": 28.8,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC4005",
+    "Product and Net Content": "Sofwash 3 IN 1 Hand Wash, Shower Gel & Bubble Bath - Green Apple (250 ml)",
+    "MRP(Rs.)": 274.0,
+    "DP(Rs.)": 168.0,
+    "PV": 2.11,
+    "BV": 84.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC4001",
+    "Product and Net Content": "Sofwash 3 IN 1 Hand Wash, Shower Gel & Bubble Bath - Berry Strawberry (250 ml)",
+    "MRP(Rs.)": 224.0,
+    "DP(Rs.)": 168.0,
+    "PV": 1.11,
+    "BV": 84.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC4002",
+    "Product and Net Content": "Sofwash 3 IN 1 Hand Wash, Shower Gel & Bubble Bath - Citrusy Lime (250 ml)",
+    "MRP(Rs.)": 224.0,
+    "DP(Rs.)": 165.0,
+    "PV": 3.11,
+    "BV": 84.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC4009",
+    "Product and Net Content": "Sofwash 3 IN 1 Hand Wash, Shower Gel & Bubble Bath - Citrusy Lime Refill Pouch (500 ml)",
+    "MRP(Rs.)": 350.0,
+    "DP(Rs.)": 263.0,
+    "PV": 4.87,
+    "BV": 131.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "ESSENSUAL",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "PC0001",
+    "Product and Net Content": "Essensual Hand & Body Lotion (Allantoin & Vitamin E) (200 ml)",
+    "MRP(Rs.)": 290.0,
+    "DP(Rs.)": 240.0,
+    "PV": 4.44,
+    "BV": 120.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC0064",
+    "Product and Net Content": "Essensual Hand & Body Lotion Allantoin & Vitamin E (100 ml)",
+    "MRP(Rs.)": 251.0,
+    "DP(Rs.)": 188.0,
+    "PV": 4.18,
+    "BV": 112.8,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC0002",
+    "Product and Net Content": "Essensual Hand & Body Lotion (Glycerine & Honey) (200 ml)",
+    "MRP(Rs.)": 290.0,
+    "DP(Rs.)": 240.0,
+    "PV": 4.44,
+    "BV": 120.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC10063",
+    "Product and Net Content": "Essensual Hand & Body Lotion (Glycerine & Honey) (100 ml)",
+    "MRP(Rs.)": 251.0,
+    "DP(Rs.)": 188.0,
+    "PV": 4.18,
+    "BV": 112.8,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC5244",
+    "Product and Net Content": "Essensual Soft & Smooth Intensive Foot Care Cream (100 ml)",
+    "MRP(Rs.)": 294.0,
+    "DP(Rs.)": 221.0,
+    "PV": 4.09,
+    "BV": 110.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC0004",
+    "Product and Net Content": "Essensual Perfumed Deo Spray - Momentum (150 ml)",
+    "MRP(Rs.)": 296.0,
+    "DP(Rs.)": 222.0,
+    "PV": 3.29,
+    "BV": 88.8,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC0006",
+    "Product and Net Content": "Essensual Perfumed Deo Spray - Ocean Blue (150 ml)",
+    "MRP(Rs.)": 296.0,
+    "DP(Rs.)": 222.0,
+    "PV": 1.29,
+    "BV": 88.6,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC10005",
+    "Product and Net Content": "Essensual Perfumed Deo Spray - Indulge (150 ml)",
+    "MRP(Rs.)": 296.0,
+    "DP(Rs.)": 222.0,
+    "PV": 3.29,
+    "BV": 88.8,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC0007",
+    "Product and Net Content": "Essensual Perfumed Deo Spray - Oriental Spice (150 ml)",
+    "MRP(Rs.)": 296.0,
+    "DP(Rs.)": 222.0,
+    "PV": 3.29,
+    "BV": 88.8,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC0003",
+    "Product and Net Content": "Essensual Instant Tea Tree Oil with Vitamin E (15 ml)",
+    "MRP(Rs.)": 405.0,
+    "DP(Rs.)": 304.0,
+    "PV": 5.63,
+    "BV": 152.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PCOOTO",
+    "Product and Net Content": "Essensual Perfumed Body Talc - Dreams (100 g)",
+    "MRP(Rs.)": 105.0,
+    "DP(Rs.)": 79.0,
+    "PV": 1.46,
+    "BV": 39.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC6058",
+    "Product and Net Content": "Essensual Perfumed Body Talc - Dreams (100 g)",
+    "MRP(Rs.)": 105.0,
+    "DP(Rs.)": 79.0,
+    "PV": 1.46,
+    "BV": 39.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC0011",
+    "Product and Net Content": "Essensual Perfumed Body Talc - Wild Flower (100 g)",
+    "MRP(Rs.)": 105.0,
+    "DP(Rs.)": 79.0,
+    "PV": 1.46,
+    "BV": 39.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC6057",
+    "Product and Net Content": "Essensual Perfumed Body Talc - Wild Flower (100 g)",
+    "MRP(Rs.)": 105.0,
+    "DP(Rs.)": 79.0,
+    "PV": 1.46,
+    "BV": 39.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC9000",
+    "Product and Net Content": "Essensual Body Puff Ultra Soft & Gentle (1 Unit)",
+    "MRP(Rs.)": 119.0,
+    "DP(Rs.)": 900.0,
+    "PV": 1.67,
+    "BV": 45.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC6062",
+    "Product and Net Content": "Essensual Deep Nourishing Cold Cream (100 g)",
+    "MRP(Rs.)": 289.0,
+    "DP(Rs.)": 217.0,
+    "PV": 4.82,
+    "BV": 130.2,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "FRUIT OF THE EARTH",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "PC1022",
+    "Product and Net Content": "FOTE Henna (120 g)",
+    "MRP(Rs.)": 135.0,
+    "DP(Rs.)": 101.0,
+    "PV": 1.87,
+    "BV": 50.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC1006",
+    "Product and Net Content": "FOTE Shampoo with Henna & Jojoba Oil Hair Fall Control (200 ml)",
+    "MRP(Rs.)": 252.0,
+    "DP(Rs.)": 109.0,
+    "PV": 3.5,
+    "BV": 94.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC1005",
+    "Product and Net Content": "FOTE Shampoo with Arnica & Tea Tree Oil (Dandruff Control) (200 ml)",
+    "MRP(Rs.)": 252.0,
+    "DP(Rs.)": 189.0,
+    "PV": 3.5,
+    "BV": 94.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC1002",
+    "Product and Net Content": "FOTE Conditioner with Aloe Vera & Almond Oil (Smooth & Shine) (150 ml)",
+    "MRP(Rs.)": 220.0,
+    "DP(Rs.)": 190.0,
+    "PV": 3.52,
+    "BV": 95.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC5258",
+    "Product and Net Content": "FOTE Shampoo with Henna & Jojoba Oil (Hair Fall Control) (100 ml)",
+    "MRP(Rs.)": 159.0,
+    "DP(Rs.)": 119.0,
+    "PV": 2.2,
+    "BV": 59.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC5257",
+    "Product and Net Content": "FOTE Shampoo with Arnica & Tea Tree Oil (Dandruff Control) (100 ml)",
+    "MRP(Rs.)": 169.0,
+    "DP(Rs.)": 119.0,
+    "PV": 2.2,
+    "BV": 59.6,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC5269",
+    "Product and Net Content": "FOTE Conditioner with Aloe Vera & Almond Oil (Smooth & Shine) (100 ml)",
+    "MRP(Rs.)": 194.0,
+    "DP(Rs.)": 146.0,
+    "PV": 2.7,
+    "BV": 73.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "SALON",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "PC5247",
+    "Product and Net Content": "Salon Professional Advanced Formula Hair Fall Defense Shampoo (200 ml)",
+    "MRP(Rs.)": 357.0,
+    "DP(Rs.)": 268.0,
+    "PV": 4.96,
+    "BV": 134.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC5245",
+    "Product and Net Content": "Salon Professional Advanced Formula Dandruff Care Shampoo (200 ml)",
+    "MRP(Rs.)": 357.0,
+    "DP(Rs.)": 268.0,
+    "PV": 4.96,
+    "BV": 134.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC5246",
+    "Product and Net Content": "Salon Professional Advanced Formula Smooth & Shine Shampoo (200 ml)",
+    "MRP(Rs.)": 357.0,
+    "DP(Rs.)": 268.0,
+    "PV": 4.96,
+    "BV": 134.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC5248",
+    "Product and Net Content": "Salon Professional Advanced Formula Radiant Shine Conditioner (200 ml)",
+    "MRP(Rs.)": 370.0,
+    "DP(Rs.)": 279.0,
+    "PV": 5.17,
+    "BV": 139.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC0082",
+    "Product and Net Content": "Salon Professional Advanced Formula Hair Fall Defense Shampoo Sachet (92 ml) (4 ml x 48 Unit)",
+    "MRP(Rs.)": 192.0,
+    "DP(Rs.)": 168.0,
+    "PV": 1.87,
+    "BV": 50.4,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC0083",
+    "Product and Net Content": "Salon Professional Advanced Formula Dandruff Care Shampoo Sachet (92 ml) (4 ml x 48 Unit)",
+    "MRP(Rs.)": 192.0,
+    "DP(Rs.)": 168.0,
+    "PV": 1.87,
+    "BV": 50.4,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC0084",
+    "Product and Net Content": "Salon Professional Advanced Formula Smooth & Shine Shampoo Sachet (92 ml) (4 ml x 48 Unit)",
+    "MRP(Rs.)": 192.0,
+    "DP(Rs.)": 168.0,
+    "PV": 1.87,
+    "BV": 50.4,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC0034",
+    "Product and Net Content": "Salon Professional Amla Non-sticky Hair Oil (100 ml)",
+    "MRP(Rs.)": 92.0,
+    "DP(Rs.)": 69.0,
+    "PV": 0.77,
+    "BV": 20.7,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC0033",
+    "Product and Net Content": "Salon Professional Ayurvedic Cool Herbal Oil (100 ml)",
+    "MRP(Rs.)": 125.0,
+    "DP(Rs.)": 94.0,
+    "PV": 1.04,
+    "BV": 28.7,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC5285",
+    "Product and Net Content": "Salon Professional Argan Oil of Morocco Hair Treatment Oil (100 ml)",
+    "MRP(Rs.)": 880.0,
+    "DP(Rs.)": 662.0,
+    "PV": 14.71,
+    "BV": 397.2,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC5Z84",
+    "Product and Net Content": "Salon Professional Argan Oil of Morocco Moisture Repair Shampoo (200 ml)",
+    "MRP(Rs.)": 566.0,
+    "DP(Rs.)": 426.0,
+    "PV": 9.47,
+    "BV": 255.6,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC5283",
+    "Product and Net Content": "Salon Professional Argan Oil of Morocco Moisture Repair Conditioner (200 ml)",
+    "MRP(Rs.)": 566.0,
+    "DP(Rs.)": 426.0,
+    "PV": 9.47,
+    "BV": 255.6,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC5232",
+    "Product and Net Content": "Salon Professional Hair Color - Natural Black (1)",
+    "MRP(Rs.)": 755.0,
+    "DP(Rs.)": 567.0,
+    "PV": 7.35,
+    "BV": 198.45,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC5233",
+    "Product and Net Content": "Salon Professional Hair Color - Dark Brown (2)",
+    "MRP(Rs.)": 755.0,
+    "DP(Rs.)": 567.0,
+    "PV": 7.35,
+    "BV": 198.45,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC5234",
+    "Product and Net Content": "Salon Professional Hair Color - Brown (3)",
+    "MRP(Rs.)": 755.0,
+    "DP(Rs.)": 567.0,
+    "PV": 7.95,
+    "BV": 198.45,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC5235",
+    "Product and Net Content": "Salon Professional Hair Color - Chocolate (4)",
+    "MRP(Rs.)": 755.0,
+    "DP(Rs.)": 567.0,
+    "PV": 7.35,
+    "BV": 198.45,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC5236",
+    "Product and Net Content": "Salon Professional Hair Color - Light Brown (5)",
+    "MRP(Rs.)": 756.0,
+    "DP(Rs.)": 567.0,
+    "PV": 7.35,
+    "BV": 198.45,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC5237",
+    "Product and Net Content": "Salon Professional Hair Color - Dark Blond (6)",
+    "MRP(Rs.)": 755.0,
+    "DP(Rs.)": 567.0,
+    "PV": 7.35,
+    "BV": 198.45,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC5280",
+    "Product and Net Content": "Salon Professional Advanced Formula Nourish & Shine Hair Oil (100 ml)",
+    "MRP(Rs.)": 166.0,
+    "DP(Rs.)": 125.0,
+    "PV": 1.86,
+    "BV": 50.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "VELOCITY MEN'S RANGE",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "PC5003",
+    "Product and Net Content": "Velocity Men Deodorising Body Talc (100 g)",
+    "MRP(Rs.)": 106.0,
+    "DP(Rs.)": 80.0,
+    "PV": 1.63,
+    "BV": 44.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC5010",
+    "Product and Net Content": "Velocity Men Premium Shaving Cream (70 g)",
+    "MRP(Rs.)": 154.0,
+    "DP(Rs.)": 176.0,
+    "PV": 2.36,
+    "BV": 63.8,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC5002",
+    "Product and Net Content": "Velocity Men Body Spray (125 ml/88 g)",
+    "MRP(Rs.)": 296.0,
+    "DP(Rs.)": 222.0,
+    "PV": 4.11,
+    "BV": 111.08,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC5009",
+    "Product and Net Content": "Velocity Men Oil Clear Face Wash (500 g)",
+    "MRP(Rs.)": 175.0,
+    "DP(Rs.)": 132.0,
+    "PV": 2.99,
+    "BV": 79.2,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC5005",
+    "Product and Net Content": "Velocity Men Fairness Cream (50 g)",
+    "MRP(Rs.)": 189.0,
+    "DP(Rs.)": 142.0,
+    "PV": 3.16,
+    "BV": 95.2,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "FREEDOM EXTREME COMFORT SANITARY NAPKIN",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "PC0071",
+    "Product and Net Content": "Sanitary Napkin - Regular 24.5 cm (15 Unit)",
+    "MRP(Rs.)": 281.0,
+    "DP(Rs.)": 212.0,
+    "PV": 3.93,
+    "BV": 106.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC0072",
+    "Product and Net Content": "Sanitary Napkin - Large 27.5 cm (15 Unit)",
+    "MRP(Rs.)": 309.0,
+    "DP(Rs.)": 232.0,
+    "PV": 4.3,
+    "BV": 116.08,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC1073",
+    "Product and Net Content": "Sanitary Napkin - X-Large 31.2 cm (15 Unit)",
+    "MRP(Rs.)": 329.0,
+    "DP(Rs.)": 248.0,
+    "PV": 4.59,
+    "BV": 124.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "LIFESTYLE",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "AP0002",
+    "Product and Net Content": "Modicare Cuckoo Air Purifier Filter (1 Unit)",
+    "MRP(Rs.)": 4500.0,
+    "DP(Rs.)": 3999.0,
+    "PV": 29.62,
+    "BV": 799.8,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "AP0083",
+    "Product and Net Content": "Modicare Cuckoo Premium Alkaline Pitcher (1 Unit)",
+    "MRP(Rs.)": 4715.0,
+    "DP(Rs.)": 3545.0,
+    "PV": 45.95,
+    "BV": 1240.75,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "APDOBA",
+    "Product and Net Content": "Modicare Cuckoo Premium Alkaline Pitcher Filter Cartridge (1 Unit)",
+    "MRP(Rs.)": 1995.0,
+    "DP(Rs.)": 1500.0,
+    "PV": 13.89,
+    "BV": 375.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "AP0005",
+    "Product and Net Content": "Modicare Cuckoo Premium Alkaline Pitcher Demo Kit (1 Unit X pH. Drops (10 ml), 1 Unit X ORP Drops (10ml))",
+    "MRP(Rs.)": 200.0,
+    "DP(Rs.)": 150.0,
+    "PV": 0.56,
+    "BV": 15.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "TRVD04",
+    "Product and Net Content": "Modicare Carbon Fiber Travel-Cum-Laptop Bag (1 Unit)",
+    "MRP(Rs.)": 4999.0,
+    "DP(Rs.)": 4544.0,
+    "PV": 67.32,
+    "BV": 1837.6,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "TRV001",
+    "Product and Net Content": "Modicare Multifunctional Laptop Bag (1 Unit)",
+    "MRP(Rs.)": 2499.0,
+    "DP(Rs.)": 2272.0,
+    "PV": 39.66,
+    "BV": 908.8,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "TRV003",
+    "Product and Net Content": "Modicare Multiutility Smart Sling Bag (1 Unit)",
+    "MRP(Rs.)": 995.0,
+    "DP(Rs.)": 994.0,
+    "PV": 13.39,
+    "BV": 361.6,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "TRVODZ",
+    "Product and Net Content": "Modicare Multiutility Toiletry Bag (1 Unit)",
+    "MRP(Rs.)": 1295.0,
+    "DP(Rs.)": 1176.0,
+    "PV": 17.42,
+    "BV": 470.4,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "MODICARE WALL CLOCK",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "WAT065",
+    "Product and Net Content": "10.26 inch Black Colored Rim Quartz Wall Clock (1 Unit)",
+    "MRP(Rs.)": 500.0,
+    "DP(Rs.)": 435.0,
+    "PV": 4.83,
+    "BV": 130.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "WAT068",
+    "Product and Net Content": "12 Inch Gold Colored Rim Quartz Wall Clock (1 Unit)",
+    "MRP(Rs.)": 750.0,
+    "DP(Rs.)": 652.0,
+    "PV": 7.24,
+    "BV": 195.6,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "WAT069",
+    "Product and Net Content": "12 inch Roulette Design Quartz Wall Clock (1 Unit)",
+    "MRP(Rs.)": 850.0,
+    "DP(Rs.)": 739.0,
+    "PV": 8.21,
+    "BV": 221.7,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "MODICARE PREMIUM AGARBATTI",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "AB0007",
+    "Product and Net Content": "Rose (84 Unit)",
+    "MRP(Rs.)": 93.0,
+    "DP(Rs.)": 70.0,
+    "PV": 0.65,
+    "BV": 17.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "AB0008",
+    "Product and Net Content": "Lavender (84 Unit)",
+    "MRP(Rs.)": 93.0,
+    "DP(Rs.)": 70.0,
+    "PV": 0.65,
+    "BV": 17.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "AB0009",
+    "Product and Net Content": "Sandal (84 Unit)",
+    "MRP(Rs.)": 93.0,
+    "DP(Rs.)": 70.0,
+    "PV": 0.65,
+    "BV": 17.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "AB0010",
+    "Product and Net Content": "Champa (84 Unit)",
+    "MRP(Rs.)": 93.0,
+    "DP(Rs.)": 70.0,
+    "PV": 11.65,
+    "BV": 17.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "AB0011",
+    "Product and Net Content": "Jasmine (84 Unit)",
+    "MRP(Rs.)": 93.0,
+    "DP(Rs.)": 70.0,
+    "PV": 0.65,
+    "BV": 17.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "AB0012",
+    "Product and Net Content": "Kewda (84 Unit)",
+    "MRP(Rs.)": 93.0,
+    "DP(Rs.)": 70.0,
+    "PV": 1.65,
+    "BV": 17.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "HOME CARE",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "HC3030",
+    "Product and Net Content": "Mighty In-One Multipurpose Cleaner (250 ml)",
+    "MRP(Rs.)": 100.0,
+    "DP(Rs.)": 135.0,
+    "PV": 2.0,
+    "BV": 54.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HC3031",
+    "Product and Net Content": "Mighty In-One Shine & Protect (250 ml)",
+    "MRP(Rs.)": 683.0,
+    "DP(Rs.)": 513.0,
+    "PV": 7.6,
+    "BV": 205.2,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HC2025",
+    "Product and Net Content": "Duz All Advanced Concentrated Multi Purpose Cleaner (Biosafe Formula) (500 ml)",
+    "MRP(Rs.)": 352.0,
+    "DP(Rs.)": 265.0,
+    "PV": 3.93,
+    "BV": 106.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HC2021",
+    "Product and Net Content": "HD Heavy Duty Floor Cleaner (500 ml)",
+    "MRP(Rs.)": 216.0,
+    "DP(Rs.)": 162.0,
+    "PV": 2.4,
+    "BV": 64.8,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HC0026",
+    "Product and Net Content": "Silver Dip Instant Silver Cleaner (300 ml)",
+    "MRP(Rs.)": 309.0,
+    "DP(Rs.)": 233.0,
+    "PV": 3.45,
+    "BV": 93.2,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HC3028",
+    "Product and Net Content": "Spic N Span Scale & Bathroom Cleaner (250 ml)",
+    "MRP(Rs.)": 250.0,
+    "DP(Rs.)": 188.0,
+    "PV": 2.79,
+    "BV": 75.2,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HC0027",
+    "Product and Net Content": "Beyond Blue Powerful Liquid Toilet Cleaner (750 ml)",
+    "MRP(Rs.)": 230.0,
+    "DP(Rs.)": 173.0,
+    "PV": 2.56,
+    "BV": 69.2,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HC5005",
+    "Product and Net Content": "One Der Scrub (4 Unit)",
+    "MRP(Rs.)": 187.0,
+    "DP(Rs.)": 141.0,
+    "PV": 2.09,
+    "BV": 56.4,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HC2024",
+    "Product and Net Content": "Sparkle Advanced Concentrated Glass Cleaner with antifog effect (Biosafe Formula) (500 ml)",
+    "MRP(Rs.)": 245.0,
+    "DP(Rs.)": 184.0,
+    "PV": 2.73,
+    "BV": 73.6,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HC0006",
+    "Product and Net Content": "One Der Drop Advanced Concentrated Dish Washing Liquid (Original Formula) (500 ml)",
+    "MRP(Rs.)": 298.0,
+    "DP(Rs.)": 216.0,
+    "PV": 3.2,
+    "BV": 96.4,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HC3027",
+    "Product and Net Content": "SteriClean Powerful Disinfectant Cleaner Original (250 ml)",
+    "MRP(Rs.)": 173.0,
+    "DP(Rs.)": 130.0,
+    "PV": 1.93,
+    "BV": 52.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HC2019",
+    "Product and Net Content": "SteriClean Powerful Disinfectant Cleaner Original (500 ml)",
+    "MRP(Rs.)": 319.0,
+    "DP(Rs.)": 240.0,
+    "PV": 3.56,
+    "BV": 96.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "HC2027",
+    "Product and Net Content": "SteriClean Powerful Disinfectant Cleaner Lime (500 ml)",
+    "MRP(Rs.)": 379.0,
+    "DP(Rs.)": 240.0,
+    "PV": 3.56,
+    "BV": 96.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "LAUNDRY CARE",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "LC1018",
+    "Product and Net Content": "Washmate Popular Detergent Powder (1 Kg)",
+    "MRP(Rs.)": 224.0,
+    "DP(Rs.)": 168.0,
+    "PV": 1.87,
+    "BV": 50.4,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "LC2015",
+    "Product and Net Content": "Washmate Matic Concentrated Detergent Powder (500 g)",
+    "MRP(Rs.)": 203.0,
+    "DP(Rs.)": 153.0,
+    "PV": 1.7,
+    "BV": 45.9,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "LC4004",
+    "Product and Net Content": "Washmate PowerClean Detergent Bar (3 Unit x 200 g)",
+    "MRP(Rs.)": 141.0,
+    "DP(Rs.)": 105.0,
+    "PV": 1.17,
+    "BV": 31.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "LC2017",
+    "Product and Net Content": "Washmate Delicate Liquid Detergent for Woolen & Delicate Fabrics (Biosafe Formula) (500 ml)",
+    "MRP(Rs.)": 454.0,
+    "DP(Rs.)": 342.0,
+    "PV": 6.33,
+    "BV": 171.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "LC3021",
+    "Product and Net Content": "Washmate Pre Wash Dirt & Stain Remover (250 ml)",
+    "MRP(Rs.)": 231.0,
+    "DP(Rs.)": 174.0,
+    "PV": 1.93,
+    "BV": 52.2,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "LC2018",
+    "Product and Net Content": "Washmate 5 in 1 Liquid Detergent with Powerzyme & Natural Softener (Biosafe Formula) (500 ml)",
+    "MRP(Rs.)": 489.0,
+    "DP(Rs.)": 366.0,
+    "PV": 6.81,
+    "BV": 184.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "AUTO CARE",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "AC3005",
+    "Product and Net Content": "Auto Wash Advanced Auto Shampoo (250 ml)",
+    "MRP(Rs.)": 176.0,
+    "DP(Rs.)": 132.0,
+    "PV": 2.2,
+    "BV": 59.4,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "SKIN CARE",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "MODICARE HEMP LAB",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "MCHL01",
+    "Product and Net Content": "Repair & Balancing Milk Serum (210ml)",
+    "MRP(Rs.)": 1050.0,
+    "DP(Rs.)": 913.0,
+    "PV": 16.97,
+    "BV": 456.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MCHL0Z",
+    "Product and Net Content": "Repair & Balancing Moisturiser (50 g)",
+    "MRP(Rs.)": 1250.0,
+    "DP(Rs.)": 1087.0,
+    "PV": 20.13,
+    "BV": 543.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MCHL03",
+    "Product and Net Content": "Repair & Balancing Face Oil (20 ml)",
+    "MRP(Rs.)": 1100.0,
+    "DP(Rs.)": 957.0,
+    "PV": 17.72,
+    "BV": 478.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MCHL04",
+    "Product and Net Content": "Repair & Balancing Foaming Face Wash (150 ml)",
+    "MRP(Rs.)": 900.0,
+    "DP(Rs.)": 783.0,
+    "PV": 14.5,
+    "BV": 391.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MCHLDS",
+    "Product and Net Content": "Repair & Balancing Face Scrub (50 g)",
+    "MRP(Rs.)": 950.0,
+    "DP(Rs.)": 826.0,
+    "PV": 15.3,
+    "BV": 413.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "SCHLOKA",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "SCOOOZ",
+    "Product and Net Content": "Schloka Moroccan Argan Oil Cleanser (200 ml)",
+    "MRP(Rs.)": 559.0,
+    "DP(Rs.)": 470.0,
+    "PV": 7.78,
+    "BV": 210.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "SC0019",
+    "Product and Net Content": "Schloka Purifying Neem & Gotukota Face Wash (60 ml)",
+    "MRP(Rs.)": 252.0,
+    "DP(Rs.)": 189.0,
+    "PV": 3.5,
+    "BV": 94.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "SC0022",
+    "Product and Net Content": "Schloka D Tan Face Pack with Tulsi & Clove (60ml)",
+    "MRP(Rs.)": 252.0,
+    "DP(Rs.)": 189.0,
+    "PV": 1.5,
+    "BV": 94.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "SC0024",
+    "Product and Net Content": "Schloka Moroccan Argan Oil Scrub (60 ml)",
+    "MRP(Rs.)": 280.0,
+    "DP(Rs.)": 210.0,
+    "PV": 3.89,
+    "BV": 105.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "SC0028",
+    "Product and Net Content": "Schloka Avocado Face Scrub with Oatmeal & Neroli (60 ml)",
+    "MRP(Rs.)": 364.0,
+    "DP(Rs.)": 273.0,
+    "PV": 5.06,
+    "BV": 136.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "SC0026",
+    "Product and Net Content": "Schloka Glow Face Pack with Orange Peel & White Clay (60 ml)",
+    "MRP(Rs.)": 240.0,
+    "DP(Rs.)": 200.0,
+    "PV": 1.7,
+    "BV": 100.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "SC0003",
+    "Product and Net Content": "Schloka 3 in 1 Cleanser, Toner and Make Up Remover with Green Tea & Chamomile Extract (200 ml)",
+    "MRP(Rs.)": 405.0,
+    "DP(Rs.)": 305.0,
+    "PV": 5.65,
+    "BV": 152.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "SCOOD9",
+    "Product and Net Content": "Schloka Hydra-Nourish Facial Cream With Shea Butter, Almond & Olive Oil (100 ml)",
+    "MRP(Rs.)": 342.0,
+    "DP(Rs.)": 285.0,
+    "PV": 5.28,
+    "BV": 142.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "SC0013",
+    "Product and Net Content": "Schloka Rejuvenating Day Cream with Almond & Lavender (50 ml)",
+    "MRP(Rs.)": 336.0,
+    "DP(Rs.)": 252.0,
+    "PV": 4.67,
+    "BV": 126.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "SCUDZU",
+    "Product and Net Content": "Schloka Sun Screen Cream SPF 30 PA+++ with Gotukola & Cucumber (60 ml)",
+    "MRP(Rs.)": 343.0,
+    "DP(Rs.)": 258.0,
+    "PV": 4.38,
+    "BV": 129.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "SC0071",
+    "Product and Net Content": "Schloka Sun Screen Cream SPF 50 PA+++ with Vitamin E & Comfrey (60 ml)",
+    "MRP(Rs.)": 419.0,
+    "DP(Rs.)": 315.0,
+    "PV": 5.83,
+    "BV": 157.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "SCOODA",
+    "Product and Net Content": "Schloka Anti Ageing Night Cream with Collagen and Vitamin E (50 ml)",
+    "MRP(Rs.)": 336.0,
+    "DP(Rs.)": 252.0,
+    "PV": 4.67,
+    "BV": 126.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "SC0117",
+    "Product and Net Content": "Schloka Whitening Cream with Lemon and Turmeric (50 ml)",
+    "MRP(Rs.)": 343.0,
+    "DP(Rs.)": 258.0,
+    "PV": 4.38,
+    "BV": 129.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "SC0027",
+    "Product and Net Content": "Schloka Under Eye Cream with Ashwagandha & Gotukola (20 ml)",
+    "MRP(Rs.)": 210.0,
+    "DP(Rs.)": 158.0,
+    "PV": 2.93,
+    "BV": 79.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "SC0008",
+    "Product and Net Content": "Schloka Fairness Cream with Rose & Honey (50 ml)",
+    "MRP(Rs.)": 336.0,
+    "DP(Rs.)": 252.0,
+    "PV": 4.67,
+    "BV": 126.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "SC0006",
+    "Product and Net Content": "Schloka Body Butter with Shea Butter and Almond Oil (100 ml)",
+    "MRP(Rs.)": 405.0,
+    "DP(Rs.)": 305.0,
+    "PV": 5.65,
+    "BV": 152.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC1023",
+    "Product and Net Content": "Schloka Gold Facial Kit (54 g)",
+    "MRP(Rs.)": 309.0,
+    "DP(Rs.)": 232.0,
+    "PV": 5.16,
+    "BV": 139.2,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "SC3023",
+    "Product and Net Content": "Schloka Moroccan Argan Oil Facial Kit (54 g)",
+    "MRP(Rs.)": 309.0,
+    "DP(Rs.)": 232.0,
+    "PV": 5.16,
+    "BV": 139.2,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "FRUIT OF THE EARTH",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "PC1001",
+    "Product and Net Content": "FOTE Cleansing Gel with Apricot & Tea Tree Oil (pH Balanced) (50 ml)",
+    "MRP(Rs.)": 432.0,
+    "DP(Rs.)": 325.0,
+    "PV": 6.02,
+    "BV": 162.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC1003",
+    "Product and Net Content": "FOTE Fairness Gel with Liquorice & Aloe Vera (SPF14) (50 ml)",
+    "MRP(Rs.)": 391.0,
+    "DP(Rs.)": 294.0,
+    "PV": 5.44,
+    "BV": 147.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC1004",
+    "Product and Net Content": "FOTE Face Pack with Neem & Rosemary (Sensitive & Acne Prone Skin) (50 ml)",
+    "MRP(Rs.)": 453.0,
+    "DP(Rs.)": 340.0,
+    "PV": 6.3,
+    "BV": 170.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC5262",
+    "Product and Net Content": "FOTE Cleansing Gel with Apricot & Tea Tree Oil (pH Balanced) (100 ml)",
+    "MRP(Rs.)": 343.0,
+    "DP(Rs.)": 258.0,
+    "PV": 4.3,
+    "BV": 116.1,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC5260",
+    "Product and Net Content": "FOTE Fairness Gel with Liquorice & Aloe Vera (SPF14) (100 ml)",
+    "MRP(Rs.)": 316.0,
+    "DP(Rs.)": 237.0,
+    "PV": 1.95,
+    "BV": 106.65,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC5261",
+    "Product and Net Content": "FOTE Face Pack with Neem & Rosemary (Sensitive & Acne Prone Skin) (100 ml)",
+    "MRP(Rs.)": 336.0,
+    "DP(Rs.)": 253.0,
+    "PV": 4.22,
+    "BV": 113.85,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "PC5224",
+    "Product and Net Content": "Fruit of the Earth Moor Mud Facial Bar (4 Unit x 25 g)",
+    "MRP(Rs.)": 439.0,
+    "DP(Rs.)": 362.0,
+    "PV": 5.7,
+    "BV": 153.9,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "FRAGRANCES",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "F60001",
+    "Product and Net Content": "Modicare Mystic Touch Deep Noir Homme EDP (100 ml)",
+    "MRP(Rs.)": 2400.0,
+    "DP(Rs.)": 1799.0,
+    "PV": 33.31,
+    "BV": 899.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FG0002",
+    "Product and Net Content": "Modicare Mystic Touch Oud Homme EDP (100 ml)",
+    "MRP(Rs.)": 2400.0,
+    "DP(Rs.)": 1799.0,
+    "PV": 33.31,
+    "BV": 899.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FG0002",
+    "Product and Net Content": "Modicare Mystic Touch Silk Muse Femme EDP (100 ml)",
+    "MRP(Rs.)": 2400.0,
+    "DP(Rs.)": 1799.0,
+    "PV": 33.31,
+    "BV": 899.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FG0004",
+    "Product and Net Content": "Modicare Mystic Touch Whisper Femme EDP (100 ml)",
+    "MRP(Rs.)": 2480.0,
+    "DP(Rs.)": 1799.0,
+    "PV": 33.31,
+    "BV": 899.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "SKIN CARE COLOR COSMETICS URBAN COLOR LONDON",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "URBAN COLOR LONDON PRO WHITE SKIN CARE",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "UC4901",
+    "Product and Net Content": "UCL Pro White Fresh Radiance Day Cream (30 g)",
+    "MRP(Rs.)": 1680.0,
+    "DP(Rs.)": 1460.0,
+    "PV": 27.04,
+    "BV": 730.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC4902",
+    "Product and Net Content": "UCL Pro White Replenishing Night Cream (30 g)",
+    "MRP(Rs.)": 1680.0,
+    "DP(Rs.)": 1460.0,
+    "PV": 27.04,
+    "BV": 730.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC4904",
+    "Product and Net Content": "UCL Pro White Anti-Spot Radiance Serum (10 ml)",
+    "MRP(Rs.)": 525.0,
+    "DP(Rs.)": 456.0,
+    "PV": 8.44,
+    "BV": 228.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCT101",
+    "Product and Net Content": "URBAN COLOR LONDON BLUE LIGHT SHIELD Gentle Face Wash (710 ml)",
+    "MRP(Rs.)": 500.0,
+    "DP(Rs.)": 435.0,
+    "PV": 8.06,
+    "BV": 217.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "URBAN COLOR LONDON AGE REDEFINING SKIN CARE",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "UC5901",
+    "Product and Net Content": "Day Cream SPF 15 (30 g)",
+    "MRP(Rs.)": 2399.0,
+    "DP(Rs.)": 2085.0,
+    "PV": 38.61,
+    "BV": 1042.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC5907",
+    "Product and Net Content": "Night Cream (30 g)",
+    "MRP(Rs.)": 2399.0,
+    "DP(Rs.)": 2085.0,
+    "PV": 38.61,
+    "BV": 1042.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC6903",
+    "Product and Net Content": "Collagen Boosting Serum (18 ml)",
+    "MRP(Rs.)": 1299.0,
+    "DP(Rs.)": 1129.0,
+    "PV": 20.91,
+    "BV": 564.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "URBAN COLOR LONDON BEAT THE SUN HYBRID SUNSCREEN",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "UC3905",
+    "Product and Net Content": "Beat The Sun Hybrid Sunscreen (50 g)",
+    "MRP(Rs.)": 600.0,
+    "DP(Rs.)": 450.0,
+    "PV": 8.33,
+    "BV": 225.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "URBAN COLOR LONDON INFINITE WHITE UV FAIRNESS PRESSED POWDER WITH SPF-18",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "UC4781",
+    "Product and Net Content": "White Ice (9 g)",
+    "MRP(Rs.)": 480.0,
+    "DP(Rs.)": 400.0,
+    "PV": 7.41,
+    "BV": 200.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC4702",
+    "Product and Net Content": "Light Bisque (9 g)",
+    "MRP(Rs.)": 480.0,
+    "DP(Rs.)": 480.0,
+    "PV": 7.41,
+    "BV": 200.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC4703",
+    "Product and Net Content": "Natural Finish (9 g)",
+    "MRP(Rs.)": 480.0,
+    "DP(Rs.)": 400.0,
+    "PV": 7.41,
+    "BV": 200.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "URBAN COLOR LONDON HYDRA MATTE FOUNDATION",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "UC6105",
+    "Product and Net Content": "Desert 05 (30 ml)",
+    "MRP(Rs.)": 599.0,
+    "DP(Rs.)": 520.0,
+    "PV": 9.63,
+    "BV": 260.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "URBAN COLOR LONDON PRO MULTIFUNCTIONAL FOUNDATION & CONCEALER STICK WITH SPF 30",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "UC5102",
+    "Product and Net Content": "Ginger 02 (7 g)",
+    "MRP(Rs.)": 475.0,
+    "DP(Rs.)": 413.0,
+    "PV": 7.65,
+    "BV": 206.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC5104",
+    "Product and Net Content": "Almond 04 (7 g)",
+    "MRP(Rs.)": 476.0,
+    "DP(Rs.)": 413.0,
+    "PV": 7.65,
+    "BV": 206.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "URBAN COLOR LONDON ALL-IN-ONE PERFECTION CC CREAM",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "LIC4501",
+    "Product and Net Content": "Rose (30 g)",
+    "MRP(Rs.)": 799.0,
+    "DP(Rs.)": 599.0,
+    "PV": 11.09,
+    "BV": 299.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC4507",
+    "Product and Net Content": "Honey (30 g)",
+    "MRP(Rs.)": 799.0,
+    "DP(Rs.)": 599.0,
+    "PV": 11.09,
+    "BV": 299.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC4503",
+    "Product and Net Content": "Almond (30 g)",
+    "MRP(Rs.)": 799.0,
+    "DP(Rs.)": 599.0,
+    "PV": 11.09,
+    "BV": 299.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "URBAN COLOR LONDON COVER ALL MULTI-ACTION BB CREAM",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "UC4600",
+    "Product and Net Content": "Fair (30 g)",
+    "MRP(Rs.)": 495.0,
+    "DP(Rs.)": 413.0,
+    "PV": 7.65,
+    "BV": 206.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC4601",
+    "Product and Net Content": "Creme Light (30 g)",
+    "MRP(Rs.)": 495.0,
+    "DP(Rs.)": 413.0,
+    "PV": 7.65,
+    "BV": 206.6,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "URBAN COLOR LONDON HYDRA VEIL MATTE PRIMER",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "UC1108",
+    "Product and Net Content": "Hydra Veil Matte Primer (300 ml)",
+    "MRP(Rs.)": 650.0,
+    "DP(Rs.)": 488.0,
+    "PV": 9.03,
+    "BV": 243.75,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "URBAN COLOR LONDON PRO SELFIE PRIMER",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "UCT107",
+    "Product and Net Content": "Pro Selfie Primer (30 ml)",
+    "MRP(Rs.)": 649.0,
+    "DP(Rs.)": 564.0,
+    "PV": 10.44,
+    "BV": 282.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "URBAN COLOR LONDON PRO MAKEUP SETTING MIST",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "UC1109",
+    "Product and Net Content": "Stay & Slay Pro Makeup Setting Mist (100 ml)",
+    "MRP(Rs.)": 799.0,
+    "DP(Rs.)": 599.0,
+    "PV": 11.09,
+    "BV": 299.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "URBAN COLOR LONDON MATTE & GLOW DUO BLUSHER",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "UCDB02",
+    "Product and Net Content": "Secret (12 g)",
+    "MRP(Rs.)": 1150.0,
+    "DP(Rs.)": 1000.0,
+    "PV": 18.52,
+    "BV": 500.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "URBAN COLOR LONDON PRO FIX 3-IN-1 PALETTE (CONCEALER KIT)",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "UCCP91",
+    "Product and Net Content": "Light-Medium (6 Number x 1.5g)",
+    "MRP(Rs.)": 1099.0,
+    "DP(Rs.)": 958.0,
+    "PV": 12.74,
+    "BV": 479.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCCPOZ",
+    "Product and Net Content": "Medium-Deep (6 Number x 1.5 g)",
+    "MRP(Rs.)": 1099.0,
+    "DP(Rs.)": 950.0,
+    "PV": 17.74,
+    "BV": 79.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "URBAN COLOR LONDON 6-IN-1 DAZZLE EYESHADOW PALETTE",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "UCLEB1",
+    "Product and Net Content": "Nude Party (6 Number x 1.2g - 7.2g)",
+    "MRP(Rs.)": 1799.0,
+    "DP(Rs.)": 1499.0,
+    "PV": 27.76,
+    "BV": 749.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCLE02",
+    "Product and Net Content": "Tickle Me Pink (6 Number x 1.2g - 7.2g)",
+    "MRP(Rs.)": 1799.0,
+    "DP(Rs.)": 1499.0,
+    "PV": 27.76,
+    "BV": 749.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "URBAN COLOR LONDON INTENSE COLOR EYEPENCIL",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "UC9001",
+    "Product and Net Content": "Deep Black 001 (1.2 g)",
+    "MRP(Rs.)": 595.0,
+    "DP(Rs.)": 495.0,
+    "PV": 9.17,
+    "BV": 247.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC9006",
+    "Product and Net Content": "Go Green 006 (1.2 g)",
+    "MRP(Rs.)": 595.0,
+    "DP(Rs.)": 495.0,
+    "PV": 9.17,
+    "BV": 247.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC9012",
+    "Product and Net Content": "Deep Purple 012 (1.2 g)",
+    "MRP(Rs.)": 595.0,
+    "DP(Rs.)": 495.0,
+    "PV": 9.17,
+    "BV": 247.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "URBAN COLOR LONDON HIGH DEFINITION EYELINER",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "UC9013",
+    "Product and Net Content": "Jet Black 001 (1 ml)",
+    "MRP(Rs.)": 699.0,
+    "DP(Rs.)": 582.0,
+    "PV": 10.78,
+    "BV": 291.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "URBAN COLOR LONDON STARRY EYE KAJAL",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "UC9100",
+    "Product and Net Content": "Black Dynx-01 (0.3 g)",
+    "MRP(Rs.)": 240.0,
+    "DP(Rs.)": 209.0,
+    "PV": 3.87,
+    "BV": 104.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "URBAN COLOR LONDON ULTIMATE LASH MASCARA",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "UC9999",
+    "Product and Net Content": "Black (9 ml)",
+    "MRP(Rs.)": 25.0,
+    "DP(Rs.)": 520.0,
+    "PV": 9.63,
+    "BV": 260.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "URBAN COLOR LONDON MATTE VOGUE LUXE SLIM LIPSTICK",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "UCT401",
+    "Product and Net Content": "Vogue Vixen (2 g)",
+    "MRP(Rs.)": 999.0,
+    "DP(Rs.)": 749.0,
+    "PV": 13.87,
+    "BV": 374.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC1402",
+    "Product and Net Content": "A-list (2 g)",
+    "MRP(Rs.)": 999.0,
+    "DP(Rs.)": 749.0,
+    "PV": 13.87,
+    "BV": 374.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC1403",
+    "Product and Net Content": "Stiletto (2 g)",
+    "MRP(Rs.)": 999.0,
+    "DP(Rs.)": 749.0,
+    "PV": 13.87,
+    "BV": 374.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC1484",
+    "Product and Net Content": "Runway Rose (2 g)",
+    "MRP(Rs.)": 999.0,
+    "DP(Rs.)": 749.0,
+    "PV": 13.87,
+    "BV": 374.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC1405",
+    "Product and Net Content": "Flirt Alert (2 g)",
+    "MRP(Rs.)": 999.0,
+    "DP(Rs.)": 749.0,
+    "PV": 13.87,
+    "BV": 374.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC1406",
+    "Product and Net Content": "Maison Mauve (2 g)",
+    "MRP(Rs.)": 999.0,
+    "DP(Rs.)": 749.0,
+    "PV": 13.07,
+    "BV": 374.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC1407",
+    "Product and Net Content": "Iconic Nude (2 g)",
+    "MRP(Rs.)": 999.0,
+    "DP(Rs.)": 749.0,
+    "PV": 13.87,
+    "BV": 374.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC1408",
+    "Product and Net Content": "Goddess (2 g)",
+    "MRP(Rs.)": 999.0,
+    "DP(Rs.)": 749.0,
+    "PV": 13.87,
+    "BV": 374.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "URBAN COLOR LONDON LOVE ME MATTE LIP COLOR",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "UC1603",
+    "Product and Net Content": "Red Siren 03 (1.4 g)",
+    "MRP(Rs.)": 795.0,
+    "DP(Rs.)": 662.0,
+    "PV": 12.26,
+    "BV": 331.08,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "LUC1606",
+    "Product and Net Content": "Dusty Rose 06 (1.4 g)",
+    "MRP(Rs.)": 795.0,
+    "DP(Rs.)": 662.0,
+    "PV": 12.26,
+    "BV": 331.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCT600",
+    "Product and Net Content": "Rich Berry 00 (1.4g)",
+    "MRP(Rs.)": 795.0,
+    "DP(Rs.)": 662.0,
+    "PV": 12.26,
+    "BV": 331.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC1609",
+    "Product and Net Content": "Bombshell Pink (09) (1.4 g)",
+    "MRP(Rs.)": 795.0,
+    "DP(Rs.)": 662.0,
+    "PV": 12.26,
+    "BV": 331.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC1610",
+    "Product and Net Content": "Latte 10 (1.4g)",
+    "MRP(Rs.)": 795.0,
+    "DP(Rs.)": 662.0,
+    "PV": 12.26,
+    "BV": 331.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC1611",
+    "Product and Net Content": "Terracotta 11 (1.4 g)",
+    "MRP(Rs.)": 795.0,
+    "DP(Rs.)": 662.0,
+    "PV": 12.26,
+    "BV": 331.08,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC1612",
+    "Product and Net Content": "Moody Brown 12 (1.4 g)",
+    "MRP(Rs.)": 795.0,
+    "DP(Rs.)": 662.0,
+    "PV": 12.26,
+    "BV": 331.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "URBAN COLOR LONDON POWER MATTE TRANSFER PROOF LIQUID LIP COLOR",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "UC1901",
+    "Product and Net Content": "Royalty (5 ml)",
+    "MRP(Rs.)": 499.0,
+    "DP(Rs.)": 435.0,
+    "PV": 8.06,
+    "BV": 217.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC1902",
+    "Product and Net Content": "Luscious (5 ml)",
+    "MRP(Rs.)": 499.0,
+    "DP(Rs.)": 435.0,
+    "PV": 8.06,
+    "BV": 217.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC1903",
+    "Product and Net Content": "Bold You (5 ml)",
+    "MRP(Rs.)": 499.0,
+    "DP(Rs.)": 435.0,
+    "PV": 8.06,
+    "BV": 217.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC1984",
+    "Product and Net Content": "Cotton Candy (5 ml)",
+    "MRP(Rs.)": 499.0,
+    "DP(Rs.)": 435.0,
+    "PV": 8.06,
+    "BV": 217.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC1905",
+    "Product and Net Content": "Dusk (5 ml)",
+    "MRP(Rs.)": 499.0,
+    "DP(Rs.)": 435.0,
+    "PV": 8.06,
+    "BV": 217.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC1906",
+    "Product and Net Content": "Dreamy (5 ml)",
+    "MRP(Rs.)": 499.0,
+    "DP(Rs.)": 435.0,
+    "PV": 8.06,
+    "BV": 217.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC1907",
+    "Product and Net Content": "Limelight (5 ml)",
+    "MRP(Rs.)": 499.0,
+    "DP(Rs.)": 435.0,
+    "PV": 8.06,
+    "BV": 217.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC1908",
+    "Product and Net Content": "Hot-Shot (5 ml)",
+    "MRP(Rs.)": 499.0,
+    "DP(Rs.)": 435.0,
+    "PV": 8.06,
+    "BV": 217.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC1909",
+    "Product and Net Content": "Shine Bright (5 ml)",
+    "MRP(Rs.)": 499.0,
+    "DP(Rs.)": 435.0,
+    "PV": 8.06,
+    "BV": 217.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC1910",
+    "Product and Net Content": "Rosebud (5 ml)",
+    "MRP(Rs.)": 499.0,
+    "DP(Rs.)": 435.0,
+    "PV": 8.06,
+    "BV": 217.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC1911",
+    "Product and Net Content": "Syrup (5 ml)",
+    "MRP(Rs.)": 499.0,
+    "DP(Rs.)": 435.0,
+    "PV": 8.06,
+    "BV": 217.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC1912",
+    "Product and Net Content": "Night Out (5 ml)",
+    "MRP(Rs.)": 499.0,
+    "DP(Rs.)": 435.0,
+    "PV": 8.06,
+    "BV": 217.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC1913",
+    "Product and Net Content": "Butter Scotch (5 ml)",
+    "MRP(Rs.)": 499.0,
+    "DP(Rs.)": 435.0,
+    "PV": 8.06,
+    "BV": 217.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC1914",
+    "Product and Net Content": "Gem (5 ml)",
+    "MRP(Rs.)": 499.0,
+    "DP(Rs.)": 435.0,
+    "PV": 8.06,
+    "BV": 217.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC1915",
+    "Product and Net Content": "On The Go (5 ml)",
+    "MRP(Rs.)": 499.0,
+    "DP(Rs.)": 435.0,
+    "PV": 8.06,
+    "BV": 217.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC1916",
+    "Product and Net Content": "Signature (5ml)",
+    "MRP(Rs.)": 499.0,
+    "DP(Rs.)": 435.0,
+    "PV": 8.06,
+    "BV": 217.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC1917",
+    "Product and Net Content": "Final Touch (5 ml)",
+    "MRP(Rs.)": 499.0,
+    "DP(Rs.)": 435.0,
+    "PV": 8.06,
+    "BV": 217.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC1918",
+    "Product and Net Content": "Mood (5 ml)",
+    "MRP(Rs.)": 499.0,
+    "DP(Rs.)": 435.0,
+    "PV": 0.04,
+    "BV": 217.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "URBAN COLOR LONDON TOO GOOD TO BE CRÈME LIPSTICK",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "UCLBOT",
+    "Product and Net Content": "Creme Rose (4.2g)",
+    "MRP(Rs.)": 359.0,
+    "DP(Rs.)": 299.0,
+    "PV": 5.54,
+    "BV": 149.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL803",
+    "Product and Net Content": "Mexican Pink (4.2 g)",
+    "MRP(Rs.)": 359.0,
+    "DP(Rs.)": 299.0,
+    "PV": 5.54,
+    "BV": 149.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL804",
+    "Product and Net Content": "Rambutan (4.2 g)",
+    "MRP(Rs.)": 359.0,
+    "DP(Rs.)": 299.0,
+    "PV": 5.54,
+    "BV": 149.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCLIDS",
+    "Product and Net Content": "Rosebud (4.2 g)",
+    "MRP(Rs.)": 359.0,
+    "DP(Rs.)": 299.0,
+    "PV": 5.54,
+    "BV": 149.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL806",
+    "Product and Net Content": "Ruby Shock (4.2g)",
+    "MRP(Rs.)": 369.0,
+    "DP(Rs.)": 299.0,
+    "PV": 5.54,
+    "BV": 149.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL807",
+    "Product and Net Content": "Red Rum (4.2 g)",
+    "MRP(Rs.)": 359.0,
+    "DP(Rs.)": 299.0,
+    "PV": 5.54,
+    "BV": 149.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL808",
+    "Product and Net Content": "Daredevil (4.2 g)",
+    "MRP(Rs.)": 359.0,
+    "DP(Rs.)": 299.0,
+    "PV": 5.54,
+    "BV": 149.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL809",
+    "Product and Net Content": "Ferran (6.2 g)",
+    "MRP(Rs.)": 359.0,
+    "DP(Rs.)": 299.0,
+    "PV": 5.54,
+    "BV": 149.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL812",
+    "Product and Net Content": "Choch (4.2 g)",
+    "MRP(Rs.)": 359.0,
+    "DP(Rs.)": 299.0,
+    "PV": 5.54,
+    "BV": 149.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "URBAN COLOR LONDON TINTED LIP BALM",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "UC3101",
+    "Product and Net Content": "Fresh Strawberry (4.5 g)",
+    "MRP(Rs.)": 199.0,
+    "DP(Rs.)": 173.0,
+    "PV": 3.2,
+    "BV": 86.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC3102",
+    "Product and Net Content": "Sweet Cherry (4.5 g)",
+    "MRP(Rs.)": 199.0,
+    "DP(Rs.)": 173.0,
+    "PV": 3.2,
+    "BV": 86.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "URBAN COLOR LONDON LUXE VEGAN NAIL LACQUER",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "UCLINT",
+    "Product and Net Content": "Allure (15 ml)",
+    "MRP(Rs.)": 260.0,
+    "DP(Rs.)": 287.0,
+    "PV": 5.31,
+    "BV": 143.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL012",
+    "Product and Net Content": "Enchant (15 ml)",
+    "MRP(Rs.)": 360.0,
+    "DP(Rs.)": 287.0,
+    "PV": 5.31,
+    "BV": 143.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL113",
+    "Product and Net Content": "Bliss (15 ml)",
+    "MRP(Rs.)": 360.0,
+    "DP(Rs.)": 287.0,
+    "PV": 5.31,
+    "BV": 143.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL014",
+    "Product and Net Content": "Delight (15 ml)",
+    "MRP(Rs.)": 360.0,
+    "DP(Rs.)": 287.0,
+    "PV": 5.31,
+    "BV": 143.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL015",
+    "Product and Net Content": "Glimmer (15 ml)",
+    "MRP(Rs.)": 360.0,
+    "DP(Rs.)": 287.0,
+    "PV": 5.31,
+    "BV": 143.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL016",
+    "Product and Net Content": "Posh (15 ml)",
+    "MRP(Rs.)": 260.0,
+    "DP(Rs.)": 287.0,
+    "PV": 5.31,
+    "BV": 143.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL017",
+    "Product and Net Content": "Luster (15 ml)",
+    "MRP(Rs.)": 360.0,
+    "DP(Rs.)": 287.0,
+    "PV": 5.31,
+    "BV": 143.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCLI 18",
+    "Product and Net Content": "Stellar (15 ml)",
+    "MRP(Rs.)": 360.0,
+    "DP(Rs.)": 287.0,
+    "PV": 5.31,
+    "BV": 143.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL019",
+    "Product and Net Content": "Spunk (15 ml)",
+    "MRP(Rs.)": 360.0,
+    "DP(Rs.)": 287.0,
+    "PV": 5.31,
+    "BV": 143.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL020",
+    "Product and Net Content": "Mirage (15 ml)",
+    "MRP(Rs.)": 360.0,
+    "DP(Rs.)": 287.0,
+    "PV": 5.31,
+    "BV": 143.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL071",
+    "Product and Net Content": "Nebula (15 ml)",
+    "MRP(Rs.)": 360.0,
+    "DP(Rs.)": 287.0,
+    "PV": 5.31,
+    "BV": 143.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL022",
+    "Product and Net Content": "Zenith (15 ml)",
+    "MRP(Rs.)": 360.0,
+    "DP(Rs.)": 287.0,
+    "PV": 5.31,
+    "BV": 143.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL023",
+    "Product and Net Content": "Fantasia (15 ml)",
+    "MRP(Rs.)": 360.0,
+    "DP(Rs.)": 287.0,
+    "PV": 5.31,
+    "BV": 143.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL024",
+    "Product and Net Content": "Spellbound (15 ml)",
+    "MRP(Rs.)": 360.0,
+    "DP(Rs.)": 287.0,
+    "PV": 5.31,
+    "BV": 143.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL025",
+    "Product and Net Content": "Delirium (15 ml)",
+    "MRP(Rs.)": 360.0,
+    "DP(Rs.)": 287.0,
+    "PV": 5.31,
+    "BV": 143.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL076",
+    "Product and Net Content": "Cascade (15 ml)",
+    "MRP(Rs.)": 360.0,
+    "DP(Rs.)": 287.0,
+    "PV": 5.31,
+    "BV": 143.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL027",
+    "Product and Net Content": "Ambrosia (15 ml)",
+    "MRP(Rs.)": 360.0,
+    "DP(Rs.)": 287.0,
+    "PV": 5.31,
+    "BV": 143.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL028",
+    "Product and Net Content": "Dreamscape (15 ml)",
+    "MRP(Rs.)": 360.0,
+    "DP(Rs.)": 287.0,
+    "PV": 5.31,
+    "BV": 143.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL029",
+    "Product and Net Content": "Paradigm (15 ml)",
+    "MRP(Rs.)": 360.0,
+    "DP(Rs.)": 287.0,
+    "PV": 5.31,
+    "BV": 143.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL030",
+    "Product and Net Content": "Opulent (15 ml)",
+    "MRP(Rs.)": 360.0,
+    "DP(Rs.)": 267.0,
+    "PV": 5.31,
+    "BV": 143.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL031",
+    "Product and Net Content": "Zephyr (15 ml)",
+    "MRP(Rs.)": 360.0,
+    "DP(Rs.)": 287.0,
+    "PV": 5.31,
+    "BV": 143.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL032",
+    "Product and Net Content": "Spectra (15 ml)",
+    "MRP(Rs.)": 260.0,
+    "DP(Rs.)": 287.0,
+    "PV": 5.31,
+    "BV": 143.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL039",
+    "Product and Net Content": "Charmed (15 ml)",
+    "MRP(Rs.)": 360.0,
+    "DP(Rs.)": 287.0,
+    "PV": 5.31,
+    "BV": 143.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL034",
+    "Product and Net Content": "Mist (15 ml)",
+    "MRP(Rs.)": 360.0,
+    "DP(Rs.)": 287.0,
+    "PV": 5.31,
+    "BV": 143.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL035",
+    "Product and Net Content": "Utopia (15 ml)",
+    "MRP(Rs.)": 360.0,
+    "DP(Rs.)": 267.0,
+    "PV": 5.31,
+    "BV": 143.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "URBAN COLOR LONDON NAIL LACQUER",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "UCL304",
+    "Product and Net Content": "Lilies (6 ml)",
+    "MRP(Rs.)": 135.0,
+    "DP(Rs.)": 112.0,
+    "PV": 2.07,
+    "BV": 56.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL305",
+    "Product and Net Content": "Romance (6 ml)",
+    "MRP(Rs.)": 135.0,
+    "DP(Rs.)": 112.0,
+    "PV": 2.07,
+    "BV": 56.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL306",
+    "Product and Net Content": "Pink It! (6 ml)",
+    "MRP(Rs.)": 135.0,
+    "DP(Rs.)": 112.0,
+    "PV": 2.07,
+    "BV": 56.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL307",
+    "Product and Net Content": "Pink Cheeks (6 ml)",
+    "MRP(Rs.)": 135.0,
+    "DP(Rs.)": 112.0,
+    "PV": 2.07,
+    "BV": 56.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL308",
+    "Product and Net Content": "Kissable (6 ml)",
+    "MRP(Rs.)": 135.0,
+    "DP(Rs.)": 112.0,
+    "PV": 2.07,
+    "BV": 56.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL309",
+    "Product and Net Content": "Lilac Bloom (6 ml)",
+    "MRP(Rs.)": 135.0,
+    "DP(Rs.)": 112.0,
+    "PV": 2.07,
+    "BV": 66.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL310",
+    "Product and Net Content": "Flamingo (6 ml)",
+    "MRP(Rs.)": 135.0,
+    "DP(Rs.)": 112.0,
+    "PV": 2.07,
+    "BV": 66.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL311",
+    "Product and Net Content": "Sunshine (6 ml)",
+    "MRP(Rs.)": 135.0,
+    "DP(Rs.)": 112.0,
+    "PV": 2.07,
+    "BV": 56.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL312",
+    "Product and Net Content": "Last Kiss (6 ml)",
+    "MRP(Rs.)": 135.0,
+    "DP(Rs.)": 112.0,
+    "PV": 2.07,
+    "BV": 56.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL313",
+    "Product and Net Content": "Pucker Up (6 ml)",
+    "MRP(Rs.)": 135.0,
+    "DP(Rs.)": 112.0,
+    "PV": 2.07,
+    "BV": 56.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL314",
+    "Product and Net Content": "Bare Dare (6 ml)",
+    "MRP(Rs.)": 135.0,
+    "DP(Rs.)": 112.0,
+    "PV": 2.07,
+    "BV": 66.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL315",
+    "Product and Net Content": "Mysterious (6 ml)",
+    "MRP(Rs.)": 135.0,
+    "DP(Rs.)": 112.0,
+    "PV": 2.07,
+    "BV": 66.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL317",
+    "Product and Net Content": "Teal Steal (6 ml)",
+    "MRP(Rs.)": 135.0,
+    "DP(Rs.)": 112.0,
+    "PV": 2.07,
+    "BV": 56.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL318",
+    "Product and Net Content": "Pink Gleam (6 ml)",
+    "MRP(Rs.)": 135.0,
+    "DP(Rs.)": 112.0,
+    "PV": 2.07,
+    "BV": 56.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL319",
+    "Product and Net Content": "Diva (6 ml)",
+    "MRP(Rs.)": 135.0,
+    "DP(Rs.)": 112.0,
+    "PV": 2.07,
+    "BV": 56.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL320",
+    "Product and Net Content": "Treasure Me (6 ml)",
+    "MRP(Rs.)": 135.0,
+    "DP(Rs.)": 112.0,
+    "PV": 2.07,
+    "BV": 66.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "URBAN COLOR LONDON GEL NAIL LACQUER",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "UC2201",
+    "Product and Net Content": "Rose (6 ml)",
+    "MRP(Rs.)": 155.0,
+    "DP(Rs.)": 130.0,
+    "PV": 2.41,
+    "BV": 65.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC2203",
+    "Product and Net Content": "Tropix (6 ml)",
+    "MRP(Rs.)": 155.0,
+    "DP(Rs.)": 130.0,
+    "PV": 2.41,
+    "BV": 65.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC2204",
+    "Product and Net Content": "Candy Crush (6 ml)",
+    "MRP(Rs.)": 155.0,
+    "DP(Rs.)": 130.0,
+    "PV": 2.41,
+    "BV": 65.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC2205",
+    "Product and Net Content": "Pink Patrol (6 ml)",
+    "MRP(Rs.)": 155.0,
+    "DP(Rs.)": 130.0,
+    "PV": 2.41,
+    "BV": 65.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC2206",
+    "Product and Net Content": "Deep Fuchsia (6 ml)",
+    "MRP(Rs.)": 155.0,
+    "DP(Rs.)": 130.0,
+    "PV": 2.41,
+    "BV": 65.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC2207",
+    "Product and Net Content": "Cherry Charm (6 ml)",
+    "MRP(Rs.)": 155.0,
+    "DP(Rs.)": 130.0,
+    "PV": 2.41,
+    "BV": 65.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC2208",
+    "Product and Net Content": "Peach Silk (6 ml)",
+    "MRP(Rs.)": 155.0,
+    "DP(Rs.)": 130.0,
+    "PV": 2.41,
+    "BV": 65.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC2212",
+    "Product and Net Content": "Scarlet Boon (6 ml)",
+    "MRP(Rs.)": 155.0,
+    "DP(Rs.)": 130.0,
+    "PV": 2.41,
+    "BV": 65.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC2213",
+    "Product and Net Content": "Hot Chilli (6 ml)",
+    "MRP(Rs.)": 155.0,
+    "DP(Rs.)": 130.0,
+    "PV": 2.41,
+    "BV": 65.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCZ214",
+    "Product and Net Content": "Sugared Spice (6 ml)",
+    "MRP(Rs.)": 155.0,
+    "DP(Rs.)": 130.0,
+    "PV": 2.41,
+    "BV": 65.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC2217",
+    "Product and Net Content": "Midnight Star (6 ml)",
+    "MRP(Rs.)": 155.0,
+    "DP(Rs.)": 130.0,
+    "PV": 2.41,
+    "BV": 65.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC2218",
+    "Product and Net Content": "Aqua Gray (6 ml)",
+    "MRP(Rs.)": 155.0,
+    "DP(Rs.)": 130.0,
+    "PV": 2.41,
+    "BV": 65.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC2221",
+    "Product and Net Content": "Merry Berry (6 ml)",
+    "MRP(Rs.)": 155.0,
+    "DP(Rs.)": 130.0,
+    "PV": 2.41,
+    "BV": 65.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "URBAN COLOR LONDON PRO QUICK DRY NAIL LACQUER",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "UCL402",
+    "Product and Net Content": "Victorian Rose (6 ml)",
+    "MRP(Rs.)": 140.0,
+    "DP(Rs.)": 120.0,
+    "PV": 2.72,
+    "BV": 60.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL403",
+    "Product and Net Content": "Berry Drop (6 ml)",
+    "MRP(Rs.)": 140.0,
+    "DP(Rs.)": 120.0,
+    "PV": 2.72,
+    "BV": 60.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL404",
+    "Product and Net Content": "Morroccan Rouge (6 ml)",
+    "MRP(Rs.)": 140.0,
+    "DP(Rs.)": 120.0,
+    "PV": 2.22,
+    "BV": 60.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL405",
+    "Product and Net Content": "Candy Cane (6 ml)",
+    "MRP(Rs.)": 140.0,
+    "DP(Rs.)": 120.0,
+    "PV": 7.22,
+    "BV": 60.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL406",
+    "Product and Net Content": "Wild Pink (6 ml)",
+    "MRP(Rs.)": 140.0,
+    "DP(Rs.)": 120.0,
+    "PV": 2.22,
+    "BV": 60.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL407",
+    "Product and Net Content": "Coral Sunset (6 ml)",
+    "MRP(Rs.)": 140.0,
+    "DP(Rs.)": 120.0,
+    "PV": 2.72,
+    "BV": 60.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCLADO",
+    "Product and Net Content": "Coral Haze (6 ml)",
+    "MRP(Rs.)": 140.0,
+    "DP(Rs.)": 120.0,
+    "PV": 2.72,
+    "BV": 60.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL413",
+    "Product and Net Content": "Rhubarb Red (6 ml)",
+    "MRP(Rs.)": 140.0,
+    "DP(Rs.)": 120.0,
+    "PV": 2.22,
+    "BV": 60.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL414",
+    "Product and Net Content": "Espresso (6 ml)",
+    "MRP(Rs.)": 140.0,
+    "DP(Rs.)": 120.0,
+    "PV": 2.22,
+    "BV": 60.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL415",
+    "Product and Net Content": "Hazelnut (6 ml)",
+    "MRP(Rs.)": 140.0,
+    "DP(Rs.)": 120.0,
+    "PV": 2.72,
+    "BV": 60.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL416",
+    "Product and Net Content": "Wild Orchid (6 ml)",
+    "MRP(Rs.)": 140.0,
+    "DP(Rs.)": 120.0,
+    "PV": 2.22,
+    "BV": 60.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL418",
+    "Product and Net Content": "Smoke (6 ml)",
+    "MRP(Rs.)": 140.0,
+    "DP(Rs.)": 120.0,
+    "PV": 2.72,
+    "BV": 60.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL419",
+    "Product and Net Content": "Tide Pool (6 ml)",
+    "MRP(Rs.)": 140.0,
+    "DP(Rs.)": 120.0,
+    "PV": 2.22,
+    "BV": 60.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL420",
+    "Product and Net Content": "Ice (6 ml)",
+    "MRP(Rs.)": 140.0,
+    "DP(Rs.)": 120.0,
+    "PV": 2.22,
+    "BV": 60.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL421",
+    "Product and Net Content": "Jet Black (6 ml)",
+    "MRP(Rs.)": 140.0,
+    "DP(Rs.)": 120.0,
+    "PV": 2.72,
+    "BV": 60.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL422",
+    "Product and Net Content": "Seashell Pink (6 ml)",
+    "MRP(Rs.)": 140.0,
+    "DP(Rs.)": 120.0,
+    "PV": 2.22,
+    "BV": 60.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL 23",
+    "Product and Net Content": "Lavender (6 ml)",
+    "MRP(Rs.)": 140.0,
+    "DP(Rs.)": 120.0,
+    "PV": 2.72,
+    "BV": 60.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL424",
+    "Product and Net Content": "Minty (6 ml)",
+    "MRP(Rs.)": 140.0,
+    "DP(Rs.)": 120.0,
+    "PV": 2.72,
+    "BV": 60.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL425",
+    "Product and Net Content": "Sea Green (6 ml)",
+    "MRP(Rs.)": 140.0,
+    "DP(Rs.)": 120.0,
+    "PV": 1.72,
+    "BV": 60.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL426",
+    "Product and Net Content": "Baby Blue (6 ml)",
+    "MRP(Rs.)": 140.0,
+    "DP(Rs.)": 120.0,
+    "PV": 2.22,
+    "BV": 60.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "URBAN COLOR LONDON METAL BLAST NAIL LACQUER",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "UCL902",
+    "Product and Net Content": "Dancing Queen (6 ml)",
+    "MRP(Rs.)": 155.0,
+    "DP(Rs.)": 130.0,
+    "PV": 2.41,
+    "BV": 65.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL903",
+    "Product and Net Content": "Berry Red (6 ml)",
+    "MRP(Rs.)": 155.0,
+    "DP(Rs.)": 130.0,
+    "PV": 2.41,
+    "BV": 65.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL904",
+    "Product and Net Content": "Pink Tulip (6 ml)",
+    "MRP(Rs.)": 155.0,
+    "DP(Rs.)": 130.0,
+    "PV": 2.41,
+    "BV": 65.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL905",
+    "Product and Net Content": "Satin Onyx (6 ml)",
+    "MRP(Rs.)": 155.0,
+    "DP(Rs.)": 130.0,
+    "PV": 2.41,
+    "BV": 65.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL906",
+    "Product and Net Content": "Blue Satin (6 ml)",
+    "MRP(Rs.)": 155.0,
+    "DP(Rs.)": 130.0,
+    "PV": 2.41,
+    "BV": 65.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL907",
+    "Product and Net Content": "Kustom Cola (6 ml)",
+    "MRP(Rs.)": 155.0,
+    "DP(Rs.)": 130.0,
+    "PV": 2.41,
+    "BV": 65.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL908",
+    "Product and Net Content": "Kandy Grape (6 ml)",
+    "MRP(Rs.)": 155.0,
+    "DP(Rs.)": 130.0,
+    "PV": 2.41,
+    "BV": 65.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL909",
+    "Product and Net Content": "Golden Sand (6 ml)",
+    "MRP(Rs.)": 155.0,
+    "DP(Rs.)": 130.0,
+    "PV": 2.41,
+    "BV": 65.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "LÚCL910",
+    "Product and Net Content": "Pink Moscato (6 ml)",
+    "MRP(Rs.)": 155.0,
+    "DP(Rs.)": 130.0,
+    "PV": 2.41,
+    "BV": 65.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL911",
+    "Product and Net Content": "Gilded Rose (6 ml)",
+    "MRP(Rs.)": 155.0,
+    "DP(Rs.)": 130.0,
+    "PV": 2.41,
+    "BV": 65.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL932",
+    "Product and Net Content": "Red Hot Rio (6 ml)",
+    "MRP(Rs.)": 155.0,
+    "DP(Rs.)": 130.0,
+    "PV": 2.41,
+    "BV": 65.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "URBAN COLOR LONDON NAIL ENAMEL REMOVER",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "UC3999",
+    "Product and Net Content": "Nail Enamel Remover (110 ml)",
+    "MRP(Rs.)": 275.0,
+    "DP(Rs.)": 239.0,
+    "PV": 4.43,
+    "BV": 119.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "URBAN COLOR LONDON TRAVEL BUDDY NAIL LACQUER WIPES",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "UC8001",
+    "Product and Net Content": "Travel Buddy Nail Lacquer Wipes (30 Unit)",
+    "MRP(Rs.)": 175.0,
+    "DP(Rs.)": 152.0,
+    "PV": 2.81,
+    "BV": 76.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "URBAN COLOR LONDON MAKEUP MELTING WIPES",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "0C4861",
+    "Product and Net Content": "30 Unit wipes",
+    "MRP(Rs.)": 270.0,
+    "DP(Rs.)": 225.0,
+    "PV": 4.17,
+    "BV": 112.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "URBAN COLOR LONDON SINDOOR",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "UC1701",
+    "Product and Net Content": "Real Red (4 ml)",
+    "MRP(Rs.)": 120.0,
+    "DP(Rs.)": 99.0,
+    "PV": 1.83,
+    "BV": 49.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UCL702",
+    "Product and Net Content": "Real Maroon (4 ml)",
+    "MRP(Rs.)": 120.0,
+    "DP(Rs.)": 99.0,
+    "PV": 1.83,
+    "BV": 49.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "URBAN COLOR LONDON BEAUTY TOOLS",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "UC2381",
+    "Product and Net Content": "Urban Color London Pro Contouring Brush (1 Unit)",
+    "MRP(Rs.)": 1599.0,
+    "DP(Rs.)": 1390.0,
+    "PV": 18.02,
+    "BV": 486.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC2302",
+    "Product and Net Content": "Urban Color London Pro Blush Brush (1 Unit)",
+    "MRP(Rs.)": 1299.0,
+    "DP(Rs.)": 1130.0,
+    "PV": 14.65,
+    "BV": 396.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC2303",
+    "Product and Net Content": "Urban Color London Pro Crease Brush (1 Unit)",
+    "MRP(Rs.)": 699.0,
+    "DP(Rs.)": 608.0,
+    "PV": 7.88,
+    "BV": 212.8,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC2304",
+    "Product and Net Content": "Urban Color London Pro Eye Smudger Brush (1 Unit)",
+    "MRP(Rs.)": 599.0,
+    "DP(Rs.)": 621.0,
+    "PV": 6.75,
+    "BV": 182.35,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC2305",
+    "Product and Net Content": "Urban Color London Pro Eyeshadow Brush (1 Unit)",
+    "MRP(Rs.)": 799.0,
+    "DP(Rs.)": 695.0,
+    "PV": 9.01,
+    "BV": 243.25,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC9021",
+    "Product and Net Content": "Urban Color Flawless Finish Beauty Sponge - Black (1 Unit)",
+    "MRP(Rs.)": 199.0,
+    "DP(Rs.)": 173.0,
+    "PV": 2.56,
+    "BV": 69.2,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC9022",
+    "Product and Net Content": "Urban Color Flawless Finish Beauty Sponge - Pink (1 Unit)",
+    "MRP(Rs.)": 199.0,
+    "DP(Rs.)": 173.0,
+    "PV": 3.2,
+    "BV": 86.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC90210",
+    "Product and Net Content": "Urban Color Shape Up Crystal Nail Filer - Black (1 Unit)",
+    "MRP(Rs.)": 175.0,
+    "DP(Rs.)": 152.0,
+    "PV": 1.97,
+    "BV": 53.2,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC9023",
+    "Product and Net Content": "Urban Color Shape Up Crystal Nail Filer - Pink (1 Unit)",
+    "MRP(Rs.)": 175.0,
+    "DP(Rs.)": 152.0,
+    "PV": 1.97,
+    "BV": 53.2,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "UC9016",
+    "Product and Net Content": "Urban Color Pencil Sharpener (1 Unit)",
+    "MRP(Rs.)": 175.0,
+    "DP(Rs.)": 125.0,
+    "PV": 2.31,
+    "BV": 62.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "FOOD & BEVERAGE",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "FP0003",
+    "Product and Net Content": "Fruit of the Earth C.T.C & Long Leaf Tea (250 g)",
+    "MRP(Rs.)": 235.0,
+    "DP(Rs.)": 177.0,
+    "PV": 7.62,
+    "BV": 70.6,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FP0002",
+    "Product and Net Content": "Fruit of the Earth Power Green Tea (511 g) (25 Unit x 2 g)",
+    "MRP(Rs.)": 259.0,
+    "DP(Rs.)": 195.0,
+    "PV": 2.89,
+    "BV": 78.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FP0006",
+    "Product and Net Content": "Fruit of the Earth 100% Pure Coconut Oil (500 ml) Bottle",
+    "MRP(Rs.)": 337.0,
+    "DP(Rs.)": 254.0,
+    "PV": 1.41,
+    "BV": 38.1,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FP3142",
+    "Product and Net Content": "Fruit of the Earth 100% Pure Coconut Oil (500 ml) Jar",
+    "MRP(Rs.)": 359.0,
+    "DP(Rs.)": 270.0,
+    "PV": 1.5,
+    "BV": 40.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FP3134",
+    "Product and Net Content": "Soul Flavours Blended Instant Coffee (75 g)",
+    "MRP(Rs.)": 390.0,
+    "DP(Rs.)": 295.0,
+    "PV": 3.88,
+    "BV": 102.55,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FP3135",
+    "Product and Net Content": "Soul Flavours 100% Pure Instant Coffee (75 g)",
+    "MRP(Rs.)": 415.0,
+    "DP(Rs.)": 311.0,
+    "PV": 4.03,
+    "BV": 108.85,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FP0033",
+    "Product and Net Content": "Soul Flavours Strong CTC Tea (750 g)",
+    "MRP(Rs.)": 154.0,
+    "DP(Rs.)": 115.0,
+    "PV": 1.07,
+    "BV": 29.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FP3118",
+    "Product and Net Content": "Soul Flavours Royal Kashmiri Kahwa (100 g)",
+    "MRP(Rs.)": 1072.0,
+    "DP(Rs.)": 806.0,
+    "PV": 11.94,
+    "BV": 322.4,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FP3146",
+    "Product and Net Content": "Soul Flavours Active Rice Bran Oil Pouch (1L)",
+    "MRP(Rs.)": 290.0,
+    "DP(Rs.)": 218.0,
+    "PV": 1.21,
+    "BV": 32.7,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FP3056",
+    "Product and Net Content": "Soul Flavours Kachi Ghani Cold Pressed Mustard Oil (1 L)",
+    "MRP(Rs.)": 290.0,
+    "DP(Rs.)": 218.0,
+    "PV": 0.81,
+    "BV": 21.8,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FP3007",
+    "Product and Net Content": "Soul Flavours Penne Rigate (Pasta) (500 g)",
+    "MRP(Rs.)": 316.0,
+    "DP(Rs.)": 237.0,
+    "PV": 2.63,
+    "BV": 71.1,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FP3143",
+    "Product and Net Content": "Soul Flavours Gir Cow A2 Ghee (500 ml)",
+    "MRP(Rs.)": 1999.0,
+    "DP(Rs.)": 1500.0,
+    "PV": 11.11,
+    "BV": 300.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FPOOT6",
+    "Product and Net Content": "Soul Flavours Cow Ghee (1 L)",
+    "MRP(Rs.)": 1215.0,
+    "DP(Rs.)": 911.0,
+    "PV": 3.37,
+    "BV": 91.1,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FP0010",
+    "Product and Net Content": "Soul Flavours Pure Honey (500 g)",
+    "MRP(Rs.)": 132.0,
+    "DP(Rs.)": 325.0,
+    "PV": 4.21,
+    "BV": 113.75,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FP0011",
+    "Product and Net Content": "Soul Flavours Pure Honey with Tulsi (500 g)",
+    "MRP(Rs.)": 418.0,
+    "DP(Rs.)": 380.0,
+    "PV": 4.99,
+    "BV": 133.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FP0012",
+    "Product and Net Content": "Soul Flavours Pure Honey with Ginger (500 g)",
+    "MRP(Rs.)": 418.0,
+    "DP(Rs.)": 380.0,
+    "PV": 4.93,
+    "BV": 133.08,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FPOU13",
+    "Product and Net Content": "Soul Flavours All Natural Stevia Powder (200 g)",
+    "MRP(Rs.)": 610.0,
+    "DP(Rs.)": 459.0,
+    "PV": 6.77,
+    "BV": 160.65,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FP0008",
+    "Product and Net Content": "Soul Flavours Amla Candy Sweet (500 g)",
+    "MRP(Rs.)": 364.0,
+    "DP(Rs.)": 273.0,
+    "PV": 3.54,
+    "BV": 95.55,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FP0009",
+    "Product and Net Content": "Soul Flavours Chatpata Amla Candy (500 g)",
+    "MRP(Rs.)": 364.0,
+    "DP(Rs.)": 273.0,
+    "PV": 3.54,
+    "BV": 95.55,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FP3830",
+    "Product and Net Content": "Soul Flavours Haldi Powder (100 g)",
+    "MRP(Rs.)": 58.0,
+    "DP(Rs.)": 44.0,
+    "PV": 1.33,
+    "BV": 8.8,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FP3853",
+    "Product and Net Content": "Soul Flavours Haldi Powder (200 g)",
+    "MRP(Rs.)": 113.0,
+    "DP(Rs.)": 85.0,
+    "PV": 0.63,
+    "BV": 17.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FP3023",
+    "Product and Net Content": "Soul Flavours Lal Mirch Powder (100 g)",
+    "MRP(Rs.)": 64.0,
+    "DP(Rs.)": 6.47,
+    "PV": 0.48,
+    "BV": 12.8,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FP3654",
+    "Product and Net Content": "Soul Flavours Lal Mirch Powder (200 g)",
+    "MRP(Rs.)": 167.0,
+    "DP(Rs.)": 126.0,
+    "PV": 0.93,
+    "BV": 25.2,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FP3027",
+    "Product and Net Content": "Soul Flavours Dhania Powder (100 g)",
+    "MRP(Rs.)": 53.0,
+    "DP(Rs.)": 40.0,
+    "PV": 0.3,
+    "BV": 8.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FP3055",
+    "Product and Net Content": "Soul Flavours Dhania Powder (200g)",
+    "MRP(Rs.)": 102.0,
+    "DP(Rs.)": 77.0,
+    "PV": 1.57,
+    "BV": 15.4,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FP3834",
+    "Product and Net Content": "Soul Flavours Garam Masala (100 g)",
+    "MRP(Rs.)": 139.0,
+    "DP(Rs.)": 104.0,
+    "PV": 0.77,
+    "BV": 20.8,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FP3029",
+    "Product and Net Content": "Soul Flavours Kali Mirch Powder (100 g)",
+    "MRP(Rs.)": 254.0,
+    "DP(Rs.)": 191.0,
+    "PV": 1.41,
+    "BV": 38.2,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FP3025",
+    "Product and Net Content": "Soul Flavours Jeera Powder (100 g)",
+    "MRP(Rs.)": 169.0,
+    "DP(Rs.)": 119.0,
+    "PV": 0.88,
+    "BV": 23.8,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FP3123",
+    "Product and Net Content": "Soul Pops Kaccha Aam 75 g (3.5 g x 50 Unit)",
+    "MRP(Rs.)": 71.0,
+    "DP(Rs.)": 53.0,
+    "PV": 0.39,
+    "BV": 10.6,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FP3124",
+    "Product and Net Content": "Soul Pops Chatpata Orange Candy 75 g (3.5g x 50 Unit)",
+    "MRP(Rs.)": 71.0,
+    "DP(Rs.)": 53.0,
+    "PV": 0.39,
+    "BV": 10.6,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FP3125",
+    "Product and Net Content": "Soul Pops Guava Candy 75 g (3.5g x 50 Unit)",
+    "MRP(Rs.)": 71.0,
+    "DP(Rs.)": 53.0,
+    "PV": 0.39,
+    "BV": 10.6,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FP3139",
+    "Product and Net Content": "Soul Pops Natkhat Imli Candy 75 g (3.5g x 50 Unit)",
+    "MRP(Rs.)": 84.0,
+    "DP(Rs.)": 63.0,
+    "PV": 0.47,
+    "BV": 12.6,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FP3864",
+    "Product and Net Content": "Soul Flavours Sambhar Masala (100 g)",
+    "MRP(Rs.)": 116.0,
+    "DP(Rs.)": 87.0,
+    "PV": 0.64,
+    "BV": 17.6,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FP3065",
+    "Product and Net Content": "Soul Flavours Chaat Masala (100 g)",
+    "MRP(Rs.)": 116.0,
+    "DP(Rs.)": 87.0,
+    "PV": 0.64,
+    "BV": 17.4,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FP3066",
+    "Product and Net Content": "Soul Flavours Pav Bhaji Masala (100 g)",
+    "MRP(Rs.)": 95.0,
+    "DP(Rs.)": 88.0,
+    "PV": 0.45,
+    "BV": 17.6,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FP3067",
+    "Product and Net Content": "Soul Flavours Chhole Masala (100g)",
+    "MRP(Rs.)": 93.0,
+    "DP(Rs.)": 89.0,
+    "PV": 0.66,
+    "BV": 17.8,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FP3062",
+    "Product and Net Content": "Soul Flavours Fish Masala (100 g)",
+    "MRP(Rs.)": 84.0,
+    "DP(Rs.)": 80.0,
+    "PV": 0.59,
+    "BV": 16.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FP3869",
+    "Product and Net Content": "Soul Flavours Kitchen King Masala (100 g)",
+    "MRP(Rs.)": 127.0,
+    "DP(Rs.)": 96.0,
+    "PV": 0.71,
+    "BV": 19.2,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FP3075",
+    "Product and Net Content": "Soul Flavours Chicken Masala (100 g)",
+    "MRP(Rs.)": 120.0,
+    "DP(Rs.)": 91.0,
+    "PV": 0.67,
+    "BV": 18.2,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FP3076",
+    "Product and Net Content": "Soul Flavours Sabji Masala (100 g)",
+    "MRP(Rs.)": 99.0,
+    "DP(Rs.)": 75.0,
+    "PV": 1.56,
+    "BV": 15.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FP3070",
+    "Product and Net Content": "Soul Flavours Hing (15 g)",
+    "MRP(Rs.)": 85.0,
+    "DP(Rs.)": 64.0,
+    "PV": 0.47,
+    "BV": 12.8,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FP3136",
+    "Product and Net Content": "Soul Flavours Premium Basmati Rice (5 Kg)",
+    "MRP(Rs.)": 1257.0,
+    "DP(Rs.)": 945.0,
+    "PV": 5.25,
+    "BV": 141.75,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FP3138",
+    "Product and Net Content": "Soul Flavours Premium Basmati Rice (1 Kg)",
+    "MRP(Rs.)": 280.0,
+    "DP(Rs.)": 210.0,
+    "PV": 1.47,
+    "BV": 31.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FP3140",
+    "Product and Net Content": "Soul Flavours Diet & Diabetic White Rice (4.5 Kg)",
+    "MRP(Rs.)": 899.0,
+    "DP(Rs.)": 699.0,
+    "PV": 6.47,
+    "BV": 174.75,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FP3115",
+    "Product and Net Content": "Soul Flavours Traditional Mango Pickle (400 g)",
+    "MRP(Rs.)": 189.0,
+    "DP(Rs.)": 142.0,
+    "PV": 1.84,
+    "BV": 49.7,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FP3116",
+    "Product and Net Content": "Soul Flavours Traditional Mixed Pickle (400 g)",
+    "MRP(Rs.)": 189.0,
+    "DP(Rs.)": 142.0,
+    "PV": 1.84,
+    "BV": 49.7,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FP3117",
+    "Product and Net Content": "Soul Flavours Traditional Lemon Pickle (400 g)",
+    "MRP(Rs.)": 155.0,
+    "DP(Rs.)": 135.0,
+    "PV": 1.75,
+    "BV": 47.25,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FP3121",
+    "Product and Net Content": "Soul Flavours Oats (480 g)",
+    "MRP(Rs.)": 160.0,
+    "DP(Rs.)": 120.0,
+    "PV": 0.89,
+    "BV": 24.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "FP3114",
+    "Product and Net Content": "Soul Flavours Kashmiri Kesar (1 g)",
+    "MRP(Rs.)": 924.0,
+    "DP(Rs.)": 695.0,
+    "PV": 2.57,
+    "BV": 243.25,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "AGRICULTURE",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "AG0001",
+    "Product and Net Content": "Active 80 (3 Unit x 100 ml)",
+    "MRP(Rs.)": 501.0,
+    "DP(Rs.)": 274.0,
+    "PV": 6.27,
+    "BV": 169.2,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "AG0002",
+    "Product and Net Content": "Active-80 (500 ml)",
+    "MRP(Rs.)": 729.0,
+    "DP(Rs.)": 549.0,
+    "PV": 9.15,
+    "BV": 247.05,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "AG0003",
+    "Product and Net Content": "Active 80 (5L)",
+    "MRP(Rs.)": 5465.0,
+    "DP(Rs.)": 4109.0,
+    "PV": 68.48,
+    "BV": 1849.05,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "AGDUDA",
+    "Product and Net Content": "Active 80 Gold (500 ml)",
+    "MRP(Rs.)": 894.0,
+    "DP(Rs.)": 672.0,
+    "PV": 12.44,
+    "BV": 336.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "AG0005",
+    "Product and Net Content": "Activzyme (3 Unit x 100 ml)",
+    "MRP(Rs.)": 682.0,
+    "DP(Rs.)": 436.0,
+    "PV": 8.07,
+    "BV": 210.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "AG0006",
+    "Product and Net Content": "Activzyme (500 ml)",
+    "MRP(Rs.)": 797.0,
+    "DP(Rs.)": 599.0,
+    "PV": 11.09,
+    "BV": 299.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "AGOOD8",
+    "Product and Net Content": "Activmax (3 Unit x 100 ml)",
+    "MRP(Rs.)": 687.0,
+    "DP(Rs.)": 515.0,
+    "PV": 9.54,
+    "BV": 257.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "AGODD",
+    "Product and Net Content": "Activmax (500 ml)",
+    "MRP(Rs.)": 929.0,
+    "DP(Rs.)": 699.0,
+    "PV": 12.94,
+    "BV": 349.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "SM WATCHES",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "WAT033",
+    "Product and Net Content": "SM Men's (Day & Date) Gold Watch With Black Dial (1 Unit)",
+    "MRP(Rs.)": 4599.0,
+    "DP(Rs.)": 3999.0,
+    "PV": 59.24,
+    "BV": 1599.6,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "WATI137",
+    "Product and Net Content": "SM Men's (Day & Date) Steel Watch With Laser Engraving On Red Bezel (1 Unit)",
+    "MRP(Rs.)": 4499.0,
+    "DP(Rs.)": 3899.0,
+    "PV": 57.76,
+    "BV": 1559.6,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "WAT039",
+    "Product and Net Content": "SM Men's Black Multifunctional Watch with Black Leather Strap (1 Unit)",
+    "MRP(Rs.)": 5999.0,
+    "DP(Rs.)": 5299.8,
+    "PV": 78.5,
+    "BV": 2119.6,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "WAT B40",
+    "Product and Net Content": "SM Men's Rose Gold Black Leather Strap Watch With Silver Embossed Dial (1 Unit)",
+    "MRP(Rs.)": 3799.0,
+    "DP(Rs.)": 3299.0,
+    "PV": 48.87,
+    "BV": 1319.6,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "WAT043",
+    "Product and Net Content": "SM Men's Blue Dial With (Two Time Zone) Black Silicon Strap Watch (1 Unit)",
+    "MRP(Rs.)": 4499.0,
+    "DP(Rs.)": 3899.0,
+    "PV": 57.76,
+    "BV": 1559.6,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "WAT045",
+    "Product and Net Content": "SM Men's (Day & Date) Two Tone Gold Watch With Engraving On Stainless Steel Bezel (1 Unit)",
+    "MRP(Rs.)": 4599.0,
+    "DP(Rs.)": 3999.0,
+    "PV": 59.24,
+    "BV": 1599.6,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "WAT046",
+    "Product and Net Content": "SM Men's Day & Date) Two Tone Watch With Rose Gold Plated Index Dial (1 Unit)",
+    "MRP(Rs.)": 4829.0,
+    "DP(Rs.)": 4199.0,
+    "PV": 62.21,
+    "BV": 1679.6,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "WATO47",
+    "Product and Net Content": "SM Men's (Day & Date) Black & Stainless Steel Watch With Black Bezel (1 Unit)",
+    "MRP(Rs.)": 4949.0,
+    "DP(Rs.)": 4299.0,
+    "PV": 63.69,
+    "BV": 1719.6,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "WAT049",
+    "Product and Net Content": "SM Ladies Gold Watch With Stone Embedded Bezel (1 Unit)",
+    "MRP(Rs.)": 3999.0,
+    "DP(Rs.)": 3499.0,
+    "PV": 51.84,
+    "BV": 1399.6,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "WAT1158",
+    "Product and Net Content": "SM Ladies Steel Watch With Stone Embedded Bezel With Pink Dial (1 Unit)",
+    "MRP(Rs.)": 3799.0,
+    "DP(Rs.)": 3299.0,
+    "PV": 68.87,
+    "BV": 1319.6,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "WAT060",
+    "Product and Net Content": "SM Ladies Stainless Steel Watch With White Leather Strap (1 Unit)",
+    "MRP(Rs.)": 3329.0,
+    "DP(Rs.)": 2099.0,
+    "PV": 42.95,
+    "BV": 1159.6,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "WATU61",
+    "Product and Net Content": "SM Ladies Rose Gold Two Tone Square Watch With Stone Embedded Bezel And Dial (1 Unit)",
+    "MRP(Rs.)": 4139.0,
+    "DP(Rs.)": 3599.0,
+    "PV": 53.32,
+    "BV": 1439.6,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "WAT062",
+    "Product and Net Content": "SM Ladies Two Tone Gold Rectangular Watch (1 Unit)",
+    "MRP(Rs.)": 3449.0,
+    "DP(Rs.)": 2999.0,
+    "PV": 44.43,
+    "BV": 1199.6,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "WAT064",
+    "Product and Net Content": "SM His N Her (Date) Blue Dial Two-Tone Combo Watch (2 Unit)",
+    "MRP(Rs.)": 7149.0,
+    "DP(Rs.)": 6499.0,
+    "PV": 96.78,
+    "BV": 2599.6,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "WATOOS",
+    "Product and Net Content": "SM Men's (Day & Date) Square Two Tone Gold Watch (1 Unit)",
+    "MRP(Rs.)": 3699.0,
+    "DP(Rs.)": 3043.0,
+    "PV": 45.08,
+    "BV": 1717.72,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "WAT007",
+    "Product and Net Content": "SM Ladies Rose Gold With Stone Embedded Bezel Watch (1 Unit)",
+    "MRP(Rs.)": 3499.0,
+    "DP(Rs.)": 3043.0,
+    "PV": 45.08,
+    "BV": 1217.2,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "WATI 19",
+    "Product and Net Content": "SM Men's (Day & Date) Blue Bezel With Leather Strap Watch (1 Unit)",
+    "MRP(Rs.)": 4199.0,
+    "DP(Rs.)": 3651.0,
+    "PV": 54.09,
+    "BV": 1460.4,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "WATU18",
+    "Product and Net Content": "SM Men's (Day & Date) Blue Bezel With Silver Metal Strap Watch (1 Unit)",
+    "MRP(Rs.)": 3699.0,
+    "DP(Rs.)": 3217.0,
+    "PV": 47.66,
+    "BV": 1286.8,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "WAT014",
+    "Product and Net Content": "SM Men's Gold Index Dial (Date) Two Tone Watch (1 Unit)",
+    "MRP(Rs.)": 4199.0,
+    "DP(Rs.)": 3651.0,
+    "PV": 54.09,
+    "BV": 1460.4,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "WATOZI",
+    "Product and Net Content": "SM Men's Black Double Movement (Two Time Zones) With Silicon Strap Watch (1 Unit)",
+    "MRP(Rs.)": 4199.0,
+    "DP(Rs.)": 3651.0,
+    "PV": 54.09,
+    "BV": 1460.4,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "WAT123",
+    "Product and Net Content": "SM Ladies Silver Dial Strap Watch (1 Unit)",
+    "MRP(Rs.)": 3199.0,
+    "DP(Rs.)": 2782.0,
+    "PV": 41.21,
+    "BV": 1112.8,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "AMOLI MANGALSUTRA",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "M30072",
+    "Product and Net Content": "Nisha (1 Mangalsutra & 1 Pair of Earring)",
+    "MRP(Rs.)": 1819.0,
+    "DP(Rs.)": 1579.0,
+    "PV": 29.24,
+    "BV": 789.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MJ0076",
+    "Product and Net Content": "Ishani (1 Mangalsutra & 1 Pair of Earring)",
+    "MRP(Rs.)": 1839.0,
+    "DP(Rs.)": 1599.0,
+    "PV": 29.61,
+    "BV": 799.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MJ0077",
+    "Product and Net Content": "Mahira (1 Mangalsutra)",
+    "MRP(Rs.)": 2849.0,
+    "DP(Rs.)": 2479.0,
+    "PV": 45.91,
+    "BV": 1239.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "M11014",
+    "Product and Net Content": "Harini (1 Mangalsutra)",
+    "MRP(Rs.)": 1329.0,
+    "DP(Rs.)": 997.0,
+    "PV": 18.46,
+    "BV": 498.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MJ1015",
+    "Product and Net Content": "Chitra (1 Mangalsutra)",
+    "MRP(Rs.)": 1329.0,
+    "DP(Rs.)": 997.0,
+    "PV": 18.46,
+    "BV": 498.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MJ1016",
+    "Product and Net Content": "Gaurika (1 Mangalsutra)",
+    "MRP(Rs.)": 1329.0,
+    "DP(Rs.)": 997.0,
+    "PV": 18.46,
+    "BV": 498.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MJ1012",
+    "Product and Net Content": "Vasmi (1 Mangalsutra)",
+    "MRP(Rs.)": 1539.0,
+    "DP(Rs.)": 1154.0,
+    "PV": 21.37,
+    "BV": 577.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MJ1018",
+    "Product and Net Content": "Ekta (1 Mangalsutra)",
+    "MRP(Rs.)": 1749.0,
+    "DP(Rs.)": 1312.0,
+    "PV": 24.3,
+    "BV": 856.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "NECKLACE",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "MJ0101",
+    "Product and Net Content": "Anvi (1 Necklace & 1 Pair of Earring)",
+    "MRP(Rs.)": 3779.0,
+    "DP(Rs.)": 2699.0,
+    "PV": 49.98,
+    "BV": 1349.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "М.1102",
+    "Product and Net Content": "Anaya (1 Necklace & 1 Pair of Earring)",
+    "MRP(Rs.)": 3779.0,
+    "DP(Rs.)": 2699.0,
+    "PV": 49.98,
+    "BV": 1349.56,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MJ0103",
+    "Product and Net Content": "Reeva (1 Necklace & 1 Pair of Earring)",
+    "MRP(Rs.)": 2799.0,
+    "DP(Rs.)": 1999.0,
+    "PV": 37.02,
+    "BV": 999.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MJ0083",
+    "Product and Net Content": "Madhvi (1 Necklace & 1 Pair of Earring)",
+    "MRP(Rs.)": 4139.0,
+    "DP(Rs.)": 3599.0,
+    "PV": 66.65,
+    "BV": 1799.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "M10084",
+    "Product and Net Content": "Damini (1 Necklace & 1 Pair of Earring)",
+    "MRP(Rs.)": 3339.0,
+    "DP(Rs.)": 2899.0,
+    "PV": 53.69,
+    "BV": 1449.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MJ0086",
+    "Product and Net Content": "Deepa (1 Necklace & 1 Pair of Earring)",
+    "MRP(Rs.)": 3449.0,
+    "DP(Rs.)": 2999.0,
+    "PV": 55.54,
+    "BV": 1499.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "Mil087",
+    "Product and Net Content": "Arushi (1 Necklace & 1 Pair of Earring)",
+    "MRP(Rs.)": 3189.0,
+    "DP(Rs.)": 2769.0,
+    "PV": 51.28,
+    "BV": 1384.56,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "M30088",
+    "Product and Net Content": "Meera (1 Necklace & 1 Pair of Earring)",
+    "MRP(Rs.)": 3699.0,
+    "DP(Rs.)": 3229.0,
+    "PV": 59.8,
+    "BV": 1614.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MJ0089",
+    "Product and Net Content": "Aarya (1 Necklace & 1 Pair of Earring)",
+    "MRP(Rs.)": 3559.0,
+    "DP(Rs.)": 3099.0,
+    "PV": 57.39,
+    "BV": 1549.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "M/0097",
+    "Product and Net Content": "Amyra (1 Necklace & 1 Pair of Earring)",
+    "MRP(Rs.)": 3799.0,
+    "DP(Rs.)": 3299.0,
+    "PV": 61.09,
+    "BV": 1669.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "M10098",
+    "Product and Net Content": "Kavya (1 Necklace & 1 Pair of Earring)",
+    "MRP(Rs.)": 3449.0,
+    "DP(Rs.)": 2999.0,
+    "PV": 55.54,
+    "BV": 1499.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "M100",
+    "Product and Net Content": "Ayesha (1 Necklace & 1 Pair of Earring)",
+    "MRP(Rs.)": 5749.0,
+    "DP(Rs.)": 4999.0,
+    "PV": 92.57,
+    "BV": 2499.56,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "M30062",
+    "Product and Net Content": "Lavanya (1 Necklace & 1 Pair of Earring)",
+    "MRP(Rs.)": 3999.0,
+    "DP(Rs.)": 3499.0,
+    "PV": 64.8,
+    "BV": 1749.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MJ1013",
+    "Product and Net Content": "Advika (1 Necklace & 1 Pair of Earring)",
+    "MRP(Rs.)": 3919.0,
+    "DP(Rs.)": 2939.0,
+    "PV": 54.43,
+    "BV": 1469.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "PENDANT",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "M10104",
+    "Product and Net Content": "Chandra (1 Pendant & 1 Pair of Earring)",
+    "MRP(Rs.)": 2519.0,
+    "DP(Rs.)": 1799.0,
+    "PV": 33.31,
+    "BV": 899.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MJ0165",
+    "Product and Net Content": "Anika (1 Pendant & 1 Pair of Earring)",
+    "MRP(Rs.)": 1889.0,
+    "DP(Rs.)": 1349.0,
+    "PV": 24.98,
+    "BV": 674.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MJ0097",
+    "Product and Net Content": "Nargis (1 Pendant & 1 Pair of Earring)",
+    "MRP(Rs.)": 1769.0,
+    "DP(Rs.)": 1539.0,
+    "PV": 28.5,
+    "BV": 769.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MJ1011",
+    "Product and Net Content": "Gayatri (1 Pendant & 1 Pair of Earring)",
+    "MRP(Rs.)": 4899.0,
+    "DP(Rs.)": 3674.0,
+    "PV": 68.04,
+    "BV": 1837.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MJ1012",
+    "Product and Net Content": "Swara (1 Pendant & 1 Pair of Earring)",
+    "MRP(Rs.)": 4899.0,
+    "DP(Rs.)": 3674.0,
+    "PV": 68.04,
+    "BV": 1837.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "M11019",
+    "Product and Net Content": "Aashna (1 Pendant",
+    "MRP(Rs.)": 1609.0,
+    "DP(Rs.)": 1207.0,
+    "PV": 22.36,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "M11028",
+    "Product and Net Content": "Inaya 11 Pendant)",
+    "MRP(Rs.)": 1609.0,
+    "DP(Rs.)": 1207.0,
+    "PV": 22.35,
+    "BV": 603.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "BANGLE & BRACELET",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "M10106",
+    "Product and Net Content": "Charvi [1 Bracelet)",
+    "MRP(Rs.)": 1399.0,
+    "DP(Rs.)": 999.0,
+    "PV": 18.5,
+    "BV": 499.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MJ0107",
+    "Product and Net Content": "Naisha 11 Bracelet",
+    "MRP(Rs.)": 1819.0,
+    "DP(Rs.)": 1219.0,
+    "PV": 22.57,
+    "BV": 509.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MJ0108",
+    "Product and Net Content": "Aarahi (1 Bracelet)",
+    "MRP(Rs.)": 1399.0,
+    "DP(Rs.)": 999.0,
+    "PV": NaN,
+    "BV": 499.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MJ0109",
+    "Product and Net Content": "Roshni 11 Bracelet",
+    "MRP(Rs.)": 1819.0,
+    "DP(Rs.)": 1299.0,
+    "PV": 24.06,
+    "BV": 649.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "M30079",
+    "Product and Net Content": "Surbhi 11 Pair of Bangle 6.096 cm/2.4 inches)",
+    "MRP(Rs.)": 2119.0,
+    "DP(Rs.)": 1849.0,
+    "PV": 34.24,
+    "BV": 924.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "M10081",
+    "Product and Net Content": "Kyra 1 Pait of Bangle 6096 cm/24 inches)",
+    "MRP(Rs.)": 1029.0,
+    "DP(Rs.)": 899.0,
+    "PV": NaN,
+    "BV": 449.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MJ1021",
+    "Product and Net Content": "Mahima 11 Pair of Banglel",
+    "MRP(Rs.)": 4899.0,
+    "DP(Rs.)": 3674.0,
+    "PV": 4.0,
+    "BV": 1837.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MJ1022",
+    "Product and Net Content": "Mahima (1 Pair of Banglel",
+    "MRP(Rs.)": 4899.0,
+    "DP(Rs.)": 3674.0,
+    "PV": 68.04,
+    "BV": 1837.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MJ1025",
+    "Product and Net Content": "Easha (Set of 4 Bangle)",
+    "MRP(Rs.)": 4199.0,
+    "DP(Rs.)": 3149.0,
+    "PV": 58.31,
+    "BV": 1574.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MJ1026",
+    "Product and Net Content": "Easha (Set of 4 Bangle)",
+    "MRP(Rs.)": 4199.0,
+    "DP(Rs.)": 3749.0,
+    "PV": 58.31,
+    "BV": 1674.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MJ1027",
+    "Product and Net Content": "Kashvi (Set of  Bangle)",
+    "MRP(Rs.)": 1609.0,
+    "DP(Rs.)": 1207.0,
+    "PV": 22.35,
+    "BV": 603.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MJ1028",
+    "Product and Net Content": "Kashvi (Set of 4 Bangle)",
+    "MRP(Rs.)": 1609.0,
+    "DP(Rs.)": 1207.0,
+    "PV": 22.35,
+    "BV": 603.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MJ1029",
+    "Product and Net Content": "Djaswi Set of 4 Bangle)",
+    "MRP(Rs.)": 1609.1,
+    "DP(Rs.)": 1207.0,
+    "PV": 22.35,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MJ1030",
+    "Product and Net Content": "Ojaswi Set of 4 Bangle!",
+    "MRP(Rs.)": 1609.3,
+    "DP(Rs.)": 120700.0,
+    "PV": 22.35,
+    "BV": 603.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MJ1031",
+    "Product and Net Content": "Chandrika (1 Pair of Bangle)",
+    "MRP(Rs.)": 1609.0,
+    "DP(Rs.)": 1207.0,
+    "PV": 22.35,
+    "BV": 603.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MJ1032",
+    "Product and Net Content": "Chandrika (1 Pair of Bangle)",
+    "MRP(Rs.)": 1609.0,
+    "DP(Rs.)": 1207.0,
+    "PV": 22.35,
+    "BV": 603.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MJ1033",
+    "Product and Net Content": "Tanvi 1 Pair of Banglel",
+    "MRP(Rs.)": 1819.0,
+    "DP(Rs.)": 1364.0,
+    "PV": 25.26,
+    "BV": 682.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MJ1034",
+    "Product and Net Content": "Tanvi (1 Pair of Bangle)",
+    "MRP(Rs.)": 1819.0,
+    "DP(Rs.)": 1364.0,
+    "PV": 25.26,
+    "BV": 682.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "EARRING",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "MJ0095",
+    "Product and Net Content": "Aria (1 Pair of Earring]",
+    "MRP(Rs.)": 1429.0,
+    "DP(Rs.)": 1249.0,
+    "PV": 23.13,
+    "BV": 624.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "RING",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "MJ1036",
+    "Product and Net Content": "Tanisha (1 Ring)",
+    "MRP(Rs.)": 1049.0,
+    "DP(Rs.)": 787.0,
+    "PV": 14.57,
+    "BV": 393.5,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MJ1037",
+    "Product and Net Content": "Falak (1 Ring)",
+    "MRP(Rs.)": 1049.0,
+    "DP(Rs.)": 787.0,
+    "PV": 14.57,
+    "BV": 393.6,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "MERCHANDISE",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "MM0008",
+    "Product and Net Content": "Modicare Canvas Cap (1 Unit)",
+    "MRP(Rs.)": 450.0,
+    "DP(Rs.)": 199.0,
+    "PV": 0.74,
+    "BV": 19.9,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MM0010",
+    "Product and Net Content": "Waterman Pen (1 Unit)",
+    "MRP(Rs.)": 4000.0,
+    "DP(Rs.)": 2799.0,
+    "PV": 10.33,
+    "BV": 279.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MM0011",
+    "Product and Net Content": "Modicare Collared T-Shirt - S (1 Unit)",
+    "MRP(Rs.)": 900.0,
+    "DP(Rs.)": 549.0,
+    "PV": 2.03,
+    "BV": 54.9,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MM0012",
+    "Product and Net Content": "Modicare Collared T-Shirt - M (1 Unit)",
+    "MRP(Rs.)": 900.0,
+    "DP(Rs.)": 549.0,
+    "PV": 2.03,
+    "BV": 54.9,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MM0013",
+    "Product and Net Content": "Modicare Collared T-Shirt - L (1 Unit)",
+    "MRP(Rs.)": 900.0,
+    "DP(Rs.)": 549.0,
+    "PV": 2.03,
+    "BV": 54.9,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MM0014",
+    "Product and Net Content": "Modicare Collared T-Shirt - XL (1 Unit)",
+    "MRP(Rs.)": 900.0,
+    "DP(Rs.)": 549.0,
+    "PV": 2.03,
+    "BV": 54.9,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MM0015",
+    "Product and Net Content": "Modicare Collared T-Shirt - XXL (1 Unit)",
+    "MRP(Rs.)": 900.0,
+    "DP(Rs.)": 549.0,
+    "PV": 2.03,
+    "BV": 54.9,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "MM0016",
+    "Product and Net Content": "Modicare Collared T-Shirt - XXXL (1 Unit)",
+    "MRP(Rs.)": 900.0,
+    "DP(Rs.)": 549.0,
+    "PV": 2.03,
+    "BV": 54.9,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "600900",
+    "Product and Net Content": "Modicare Consultant Bundi (Small)",
+    "MRP(Rs.)": 1950.0,
+    "DP(Rs.)": 1950.0,
+    "PV": 14.44,
+    "BV": 390.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "601014",
+    "Product and Net Content": "Modicare Consultant Bundi (Medium)",
+    "MRP(Rs.)": 1950.0,
+    "DP(Rs.)": 1950.0,
+    "PV": 14.44,
+    "BV": 390.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "601015",
+    "Product and Net Content": "Modicare Consultant Bundi (Large)",
+    "MRP(Rs.)": 1950.0,
+    "DP(Rs.)": 1950.0,
+    "PV": 14.44,
+    "BV": 390.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "601016",
+    "Product and Net Content": "Modicare Consultant Bundi (XL)",
+    "MRP(Rs.)": 1950.0,
+    "DP(Rs.)": 1950.0,
+    "PV": 14.44,
+    "BV": 390.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "601017",
+    "Product and Net Content": "Modicare Consultant Bundi (XXL)",
+    "MRP(Rs.)": 1950.0,
+    "DP(Rs.)": 1950.0,
+    "PV": 14.44,
+    "BV": 390.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "601018",
+    "Product and Net Content": "Modicare Consultant Bundi (XXXL)",
+    "MRP(Rs.)": 1950.0,
+    "DP(Rs.)": 1950.0,
+    "PV": 14.44,
+    "BV": 390.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "601000",
+    "Product and Net Content": "Modicare Consultant Kurti+Leggings (Small)",
+    "MRP(Rs.)": 1700.0,
+    "DP(Rs.)": 1700.0,
+    "PV": 12.59,
+    "BV": 340.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "601005",
+    "Product and Net Content": "Modicare Consultant Kurti+Leggings (Medium)",
+    "MRP(Rs.)": 1700.0,
+    "DP(Rs.)": 1700.0,
+    "PV": 12.59,
+    "BV": 340.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "601006",
+    "Product and Net Content": "Modicare Consultant Kurti+Leggings (Large)",
+    "MRP(Rs.)": 1700.0,
+    "DP(Rs.)": 1700.0,
+    "PV": 12.59,
+    "BV": 340.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "601007",
+    "Product and Net Content": "Modicare Consultant Kurti+Leggings (XL)",
+    "MRP(Rs.)": 1700.0,
+    "DP(Rs.)": 1700.0,
+    "PV": 12.59,
+    "BV": 340.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "601008",
+    "Product and Net Content": "Modicare Consultant Kurti+Leggings (XXL)",
+    "MRP(Rs.)": 1700.0,
+    "DP(Rs.)": 1700.0,
+    "PV": 12.59,
+    "BV": 340.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "601001",
+    "Product and Net Content": "Modicare Consultant Saree With Blouse Piece",
+    "MRP(Rs.)": 1700.0,
+    "DP(Rs.)": 1700.0,
+    "PV": 12.59,
+    "BV": 340.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "600902",
+    "Product and Net Content": "Modicare Backpack (1 N)",
+    "MRP(Rs.)": 975.0,
+    "DP(Rs.)": 975.0,
+    "PV": 7.22,
+    "BV": 195.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "600824",
+    "Product and Net Content": "Modicare T-Shirt (1 N)",
+    "MRP(Rs.)": 795.0,
+    "DP(Rs.)": 795.0,
+    "PV": 5.89,
+    "BV": 159.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "600836",
+    "Product and Net Content": "Modicare Carry Bag (1 N)",
+    "MRP(Rs.)": 5.0,
+    "DP(Rs.)": 5.0,
+    "PV": 0.0,
+    "BV": 0.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "600848",
+    "Product and Net Content": "Atoot Bandhan Button Buddies (I Love Modicare & I Am Priceless) (2 N)",
+    "MRP(Rs.)": 40.0,
+    "DP(Rs.)": 40.0,
+    "PV": 0.3,
+    "BV": 8.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "600846",
+    "Product and Net Content": "Atoot Bandhan Mouli (1 N)",
+    "MRP(Rs.)": 25.0,
+    "DP(Rs.)": 25.0,
+    "PV": 0.19,
+    "BV": 5.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "DB0001",
+    "Product and Net Content": "Modicare Demo Bag (1 N)",
+    "MRP(Rs.)": 2499.0,
+    "DP(Rs.)": 1449.0,
+    "PV": 5.37,
+    "BV": 144.9,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": null,
+    "Product and Net Content": "LITERATURE & SALES AIDS",
+    "MRP(Rs.)": NaN,
+    "DP(Rs.)": NaN,
+    "PV": NaN,
+    "BV": NaN,
+    "Qty.": null,
+    "is_section": true
+  },
+  {
+    "Code": "601067",
+    "Product and Net Content": "Sapne Product Catalogue English Oct’2023 Issue (1 N)",
+    "MRP(Rs.)": 75.0,
+    "DP(Rs.)": 75.0,
+    "PV": 0.0,
+    "BV": 0.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "601068",
+    "Product and Net Content": "Sapne Product Catalogue Hindi Oct’2023 Issue (1 N)",
+    "MRP(Rs.)": 75.0,
+    "DP(Rs.)": 75.0,
+    "PV": 0.0,
+    "BV": 0.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "601073",
+    "Product and Net Content": "Urban Color London Catalogue English Oct’2023 Issue (1 N)",
+    "MRP(Rs.)": 35.0,
+    "DP(Rs.)": 35.0,
+    "PV": 0.0,
+    "BV": 0.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "601080",
+    "Product and Net Content": "Modicare Digital Product Booklet English (1 N) November 2024 Issue",
+    "MRP(Rs.)": 20.0,
+    "DP(Rs.)": 20.0,
+    "PV": 0.0,
+    "BV": 0.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "601081",
+    "Product and Net Content": "Modicare Digital Product Booklet Hindi (1 N) November 2024 Issue",
+    "MRP(Rs.)": 20.0,
+    "DP(Rs.)": 20.0,
+    "PV": 0.0,
+    "BV": 0.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "601078",
+    "Product and Net Content": "Modicare Digital Product Booklet English (1 N) August 2024 Issue",
+    "MRP(Rs.)": 20.0,
+    "DP(Rs.)": 20.0,
+    "PV": 0.0,
+    "BV": 0.0,
+    "Qty.": null,
+    "is_section": false
+  },
+  {
+    "Code": "601079",
+    "Product and Net Content": "Modicare Digital Product Booklet Hindi (1 N) August 2024 Issue",
+    "MRP(Rs.)": 20.0,
+    "DP(Rs.)": 20.0,
+    "PV": 0.0,
+    "BV": 0.0,
+    "Qty.": null,
+    "is_section": false
+  }
+]
